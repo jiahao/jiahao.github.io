@@ -1,14 +1,12 @@
 site:
 	git checkout mkdocs
 	mkdocs build
+	git checkout master
 	cp -R site/* .
 	rm -rf site
-	git add *
-	git stash
-	git checkout master
-	git rm -rf *
-	git stash pop
 	echo Ready to commit and push
 
 clean:
+	git reset --hard
+	git checkout mkdocs
 	git clean -xfd #Careful!!
