@@ -128,15 +128,15 @@ software tools and libraries that address the evolving needs of data science
 applications.</p>
 <h2 id="algorithm-development">Algorithm development</h2>
 <h3 id="compiler-technologies-for-high-level-dynamic-languages">Compiler technologies for high level dynamic languages</h3>
+<p><img alt="fig-green-fairy" src="https://raw.githubusercontent.com/carnaval/green-fairy/master/capt.png" /></p>
 <p>Scientific computing has historically suffered from the two-language problem,
 sometimes called <a href="https://en.wikipedia.org/wiki/Ousterhout's_dichotomy">Ousterhoult's
 dichotomy</a>. Users write
 prototype programs in a high level language such as Matlab, Python or R, then
-reimplement them in lower
-level languages like C/C++, Fortran, or even assembly, to have performant
-implementations. <a href="http://julialang.org">Julia</a> is a programming language
-designed to bridge the gap between flexibility and performance, allowing its
-users to be more productive.</p>
+reimplement them in lower level languages like C/C++, Fortran, or even
+assembly, to have performant implementations. <a href="http://julialang.org">Julia</a> is
+a programming language designed to bridge the gap between flexibility and
+performance, allowing its users to be more productive.</p>
 <p>Current research in the Julia group focuses on how the Julia compiler can be
 improved to further improve the flexibility-performance trade-off. We are
 interested in efforts to adopt state of the art technologies for compiled
@@ -150,14 +150,86 @@ language. Examples of such efforts include:</p>
 <li>developing a type theoretic understanding of Julia's dynamic type tags, to
   improve the quality of method dispatch and automatic type inference.</li>
 </ul>
+<h4 id="related-code">Related code</h4>
+<ul>
+<li>
+<p><a href="https://github.com/JuliaLang/julia">julia</a>, the Julia programming language</p>
+</li>
+<li>
+<p><a href="https://github.com/carnaval/green-fairy">green-fairy</a>, an experimental
+  abstract interpreter for static analysis of Julia code</p>
+</li>
+</ul>
 <h3 id="high-performance-numerical-analysis">High performance numerical analysis</h3>
+<p><img alt="fig-svd.png" src="../fig-svd.png" /></p>
 <p>The Julia Group develops new numerical algorithms to handle analytics for very
 large data sets. Active research in high performance algorithms for numerical
 linear algebra.</p>
-<p>Of particular interest is algorithm development for the high performance
-approximate linear algebraic methods, such as iterative singular value
-decompositions.</p>
+<p>Of particular interest is algorithm development for high performance
+linear algebra, such as iterative singular value decompositions.</p>
+<h4 id="related-code_1">Related code</h4>
+<ul>
+<li>
+<p><a href="https://github.com/JuliaLang/IterativeSolvers.jl">IterativeSolvers.jl</a>, a
+  Julia package implementing terative algorithms for solving linear systems,
+  eigensystems, and singular value problems in pure Julia.</p>
+</li>
+<li>
+<p><a href="https://github.com/JuliaParallel/Elemental.jl">Elemental.jl</a>, a wrapper
+  around the <a href="http://libelemental.org/">Elemental library</a> for
+  distributed-memory dense and sparse-direct linear algebra and optimization.</p>
+</li>
+</ul>
+<h3 id="abstractions-for-parallel-computing">Abstractions for parallel computing</h3>
+<p><img alt="fig-parallel-prefix" src="../fig-parallel-prefix.png" /></p>
+<h4 id="related-code_2">Related code</h4>
+<ul>
+<li>
+<p>The <a href="https://github.com/JuliaParallel">JuliaParallel</a> organization on GitHub
+  houses a collection of Julia packages for parallel computing, such as:</p>
+</li>
+<li>
+<p><a href="https://github.com/JuliaParallel/DistributedArrays.jl">DistributedArrays.jl</a>
+    for distributed array (<code>DArray</code>) computations</p>
+</li>
+<li><a href="https://github.com/JuliaParallel/MPI.jl">MPI.jl</a>, providing wrappers
+    around the <a href="http://mpi-forum.org">Message Passing Interface</a>, a widely used
+    library for distributed computations in high performance computing</li>
+<li><a href="https://github.com/JuliaParallel/Elemental.jl">Elemental.jl</a>, a wrapper
+    around the <a href="http://libelemental.org/">Elemental library</a> for
+    distributed-memory dense and sparse-direct linear algebra and optimization
+    (developed in collaboration with Prof. <a href="http://web.stanford.edu/~poulson/">Jack
+    Poulson</a> at Stanford)</li>
+<li><a href="https://github.com/JuliaParallel/ScaLAPACK.jl">ScaLAPACK.jl</a>, a wrapper
+    for the <a href="http://www.netlib.org/scalapack/">Scalable Linear Algebra Package</a>
+    for distributed dense linear algebra</li>
+<li><a href="https://github.com/JuliaParallel/HDFS.jl">HDFS.jl</a>, a wrapper for the
+    <a href="https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html">Hadoop Distributed File
+System</a></li>
+<li>
+<p><a href="https://github.com/JuliaParallel/Elly.jl">Elly.jl</a>, a client for <a href="https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html">Apache YARN</a></p>
+</li>
+<li>
+<p><a href="https://github.com/JaredCrean2/PETSc.jl">PETSc.jl</a>, a wrapper for the
+  <a href="http://www.mcs.anl.gov/petsc">Portable, Extensible Toolkit for
+  Scientific Computation</a> (developed in
+  collaboration with Prof. Steven G. Johnson and Jared Crean at Rensselaer
+  Polytechnic Institute)</p>
+</li>
+</ul>
 <h2 id="computational-random-matrix-theory">Computational random matrix theory</h2>
+<p><img alt="fig-tracywidom.png" src="../fig-tracywidom.png" /></p>
+<p>The Julia group develops new algorithms for random matrix theory, extending the
+algorithms used for computing over numeric matrices to matrices of random
+variables. Work in this area focuses on understanding the structure of matrix
+factorizations in the presence of random variables, uncovering noncommutative
+structure using free probability theory, and developing new applications to
+multivariate statistics.</p>
+<h3 id="related-code_3">Related code</h3>
+<ul>
+<li><a href="https://github.com/jiahao/RandomMatrices.jl">RandomMatrices.jl</a>, a Julia
+  package for computational random matrix theory.</li>
+</ul>
 <h2 id="applications-to-data-science">Applications to data science</h2>
 <p>The Julia group collaborates with several other groups to apply the latest
 analytical tools to real-life, messy data science problems.</p>
@@ -190,8 +262,25 @@ of the art statistical and machine learning techniques.</p>
 Group</a>
 and the <a href="http://bigdata.csail.mit.edu/">bigdata@csail Initiative</a>.</p>
 <h3 id="financial-fraud-detection">Financial fraud detection</h3>
-<p>The Julia group is working on new anomaly detection methods for detecting suspicious financial transactions</p>
-<p>![fig-]</p></div>
+<p>The Julia group is working on anomaly detection methods for detecting
+suspicious financial transactions in high frequency trading data. Data on high
+frequency trades is generated at the rate of ~ 2.2 TB/month for a single stock
+exchange, and analyzing these data requires state of the art techniques for
+handling streaming data and out-of-core data analytics.</p>
+<p><img alt="fig-finance.png" src="../fig-finance.png" /></p>
+<h3 id="statistical-genemics">Statistical genemics</h3>
+<p>The Julia group is also developing new high performance statistical tools for
+analyzing genomics data, which is currently being produced at the rate of
+exabytes per year. New software tools are needed to replace existing
+bioinformatics tools which were not built to handle such enormous volumes of
+data. To this end, the Julia group is providing new specialized algorithms for
+handling the task of fitting statistical models to large quantities of data,
+with implementations of principal component analyses and statistical fitting
+tools optimized to take advantage of structure inherent in genomic data that is
+difficult or impossible to leverage with general purpose library routines for
+numerical linear algebra.</p>
+<p>This project is an exciting interdisciplinary collaboration with Intel Labs,
+the Broad Institute and Harvard Medical School.</p></div>
         </div>
 
         <footer class="col-md-12">
