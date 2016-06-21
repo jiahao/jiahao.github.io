@@ -89,6 +89,11 @@
 
             <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
                 <li >
                     <a rel="next" href="../research/">
                         <i class="fa fa-arrow-left"></i> Previous
@@ -110,8 +115,6 @@
     <ul class="nav bs-sidenav">
     
         <li class="main active"><a href="#openings">Openings</a></li>
-        
-            <li><a href="#julia-internship-program">Julia Internship Program</a></li>
         
             <li><a href="#mit-eecs-superurops">MIT EECS SuperUROPs</a></li>
         
@@ -137,44 +140,6 @@ analysis, and related fields.</p>
 with Julia. Experience in related languages such as Matlab, Python, R, C/C++,
 and related projects such as <a href="http://llvm.org">LLVM</a> and
 <a href="http://www.mcs.anl.gov/research/projects/mpi">MPI</a> is a plus.</p>
-<h2 id="julia-internship-program">Julia Internship Program</h2>
-<p>The Julia Internship Program offers students worldwide the opportunity to come
-to MIT and work on open source software developing using Julia or to improve
-the Julia compiler.</p>
-<p>A competitive stipend will be provided to cover travel and local expenses. We
-thank the <a href="http://www.moore.org">Gordon and Betty Moore Foundation</a> for their
-generous funding of this internship program.</p>
-<p>The duration of the internship is flexible and can be tailored to the needs of
-individual students.</p>
-<h3 id="who-can-apply">Who can apply</h3>
-<p>Applicants must be registered students at any level (K-12 though PhD) and are
-not limited to MIT students. (MIT students are also eligible to apply through
-other programs below.)</p>
-<p>International students are welcome to apply. Please allow at least four months
-for visa processing to obtain an appropriate US visa.</p>
-<h3 id="how-to-apply">How to apply</h3>
-<p>Please send an application to Dr. <a href="http://jiahao.github.io">Jiahao Chen</a> and
-Prof. <a href="http://www-math.mit.edu/~edelman">Alan Edelman</a> by email (preferred) or
-post containing:</p>
-<ol>
-<li>a cover letter explaining:<ul>
-<li>the applicant's interest in working in the Julia group,</li>
-<li>any applicable experience in working with Julia,</li>
-<li>description of programming experience (including links to relevant code
-  portfolios), and</li>
-<li>which dates the applicant is available.</li>
-</ul>
-</li>
-<li>résumé or curriculum vitae (CV)</li>
-<li>academic transcripts (past grade sheets)</li>
-</ol>
-<p>Separately, applicants should arrange to have sent at least one letter of
-recommendation written by an academic advisor. The letter should not be seen by
-the applicant.</p>
-<p>Some applicants may be asked to complete a programming assignment to assess
-their proficiency in writing code.</p>
-<p><strong>Applications are open now and will be accepted until all positions are
-filled.</strong></p>
 <h2 id="mit-eecs-superurops">MIT EECS SuperUROPs</h2>
 <p>The <a href="https://eecs-superurop.mit.edu">EECS SuperUROP program</a> is a competitive
 one-year program for MIT EECS rising juniors and seniors to gain research
@@ -200,7 +165,7 @@ and talent, which may match or even surpass the rate offered through other
 competitive UROP programs such as the EECS SuperUROP. UROPs are available for
 <a href="http://web.mit.edu/urop/options/credit.html">academic credit</a> or on a
 <a href="http://web.mit.edu/urop/options/vol.html">volunteer basis</a>.</p>
-<h3 id="how-to-apply_1">How to apply</h3>
+<h3 id="how-to-apply">How to apply</h3>
 <p>Please contact Dr. <a href="http://jiahao.github.io">Jiahao Chen</a>, Prof. <a href="http://www-math.mit.edu/~edelman">Alan
 Edelman</a> and Prof. <a href="http://math.mit.edu/~stevenj">Steven G.
 Johnson</a> to discuss eligibility and available
@@ -261,6 +226,33 @@ research in your statement.</p>
         <script src="../js/jquery-1.10.2.min.js"></script>
         <script src="../js/bootstrap-3.0.3.min.js"></script>
         <script src="../js/highlight.pack.js"></script>
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
         <script src="../js/base.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            From here you can search these documents. Enter
+                            your search terms below.
+                        </p>
+                        <form role="form">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                            </div>
+                        </form>
+                        <div id="mkdocs-search-results"></div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </html>

@@ -89,6 +89,11 @@
 
             <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
                 <li class="disabled">
                     <a rel="next" >
                         <i class="fa fa-arrow-left"></i> Previous
@@ -123,11 +128,14 @@
             <div class="col-md-9" role="main">
 
 <h1 id="the-julia-group-at-mit">The Julia group at MIT</h1>
-<p><a href="http://julialang.org">Julia</a> is a programming language created by Jeff
-Bezanson, <a href="http://www-math.mit.edu/~edelman">Alan Edelman</a>, <a href="http://karpinski.org">Stefan
-Karpinski</a>, and Viral B. Shah in 2009. First released to
-the public in 2012, Julia has since become the product of hundreds of
-developers across the globe.</p>
+<p><a href="http://julialang.org">Julia</a> is a programming language created by
+<a href="https://github.com/JeffBezanson">Jeff Bezanson</a>,
+<a href="http://www-math.mit.edu/~edelman">Alan Edelman</a>,
+<a href="http://karpinski.org">Stefan Karpinski</a>, and
+<a href="https://github.com/viralbshah">Viral B. Shah</a>
+in 2009.
+First released to the public in 2012, Julia has since become the product of
+hundreds of developers across the globe.</p>
 <p>Today, a small group of researchers reside at MIT and focus on theoretical and
 numerical aspects of the core Julia language, base library, and several other
 packages. Current activities center around data science applications, numerical
@@ -135,44 +143,86 @@ linear algebra, parallel computing, and type theory.</p>
 <h2 id="current-members">Current members</h2>
 <ul>
 <li>
-<p><a href="https://github.com/mbauman">Matt Bauman</a>, Visiting PhD Student</p>
-</li>
-<li>
-<p><a href="https://github.com/jakebolewski">Jake Bolewski</a>, Research Engineer</p>
-</li>
-<li>
 <p><a href="../index.html">Dr. Jiahao Chen</a>, Research Scientist</p>
 </li>
 <li>
 <p><a href="http://www-math.mit.edu/~edelman">Prof. Alan Edelman</a>, Principal Investigator</p>
 </li>
 <li>
-<p><a href="http://runpeng.mit.edu">Runpeng Liu</a>, Undergraduate Student</p>
+<p><a href="http://sistemas.fciencias.unam.mx/~dsanders/">Prof. David P. Sanders</a>, Visiting Professor</p>
 </li>
 <li>
 <p><a href="https://github.com/andreasnoack">Dr. Andreas Noack</a>, Postdoctoral Associate</p>
 </li>
 <li>
-<p>Jarrett Revels, Research Engineer</p>
+<p><a href="https://github.com/xianyi">Dr. Xianyi Zhang</a>, Postdoctoral Associate</p>
+</li>
+<li>
+<p><a href="https://github.com/jrevels">Jarrett Revels</a>, Parallel Performance Engineer</p>
+</li>
+<li>
+<p><a href="http://people.csail.mit.edu/epn/epn.html">Eka Palamadai</a>, PhD Student</p>
+</li>
+<li>
+<p><a href="https://github.com/maleadt">Tim Besard</a>, Visiting PhD Student</p>
+</li>
+<li>
+<p><a href="https://github.com/vchuravy">Valentin Churavy</a>, Visiting PhD Student</p>
+</li>
+<li>
+<p><a href="https://github.com/davidagold">David A. Gold</a>, Visiting PhD Student</p>
+</li>
+<li>
+<p><a href="https://github.com/kshyatt">Katharine Hyatt</a>, Visiting PhD Student</p>
+</li>
+<li>
+<p>Jacob Higgins, Undergraduate</p>
+</li>
+<li>
+<p>Lin Pease, Undergraduate</p>
+</li>
+<li>
+<p>Kelly Shen, Undergraduate</p>
+</li>
+<li>
+<p>Cooper Sloan, Undergraduate</p>
+</li>
+<li>
+<p>Mark Wang, Undergraduate</p>
 </li>
 </ul>
 <h2 id="alumni">Alumni</h2>
 <ul>
 <li>
-<p><a href="https://github.com/carnaval">Oscar Blumberg</a> (Visiting Student, Spring-Summer 2015)</p>
+<p><a href="https://github.com/mbauman">Dr. Matt Bauman</a> (Visiting PhD Student, Fall 2015)</p>
+</li>
+<li>
+<p><a href="https://github.com/jakebolewski">Jake Bolewski</a> (Research Engineer, Summer 2014-Spring 2016)</p>
+</li>
+<li>
+<p><a href="https://github.com/carnaval">Oscar Blumberg</a> (Visiting Masters Student, Spring-Summer 2015)</p>
 </li>
 <li>
 <p><a href="https://github.com/JeffBezanson">Dr. Jeff Bezanson</a> (PhD Student, Fall 2009-Spring2015)</p>
+</li>
+<li>
+<p><a href="https://github.com/keno">Keno Fischer</a> (Undergraduate Student, Summer 2013 and Summer 2014)</p>
+</li>
+<li>
+<p><a href="http://karpinski.org">Stefan Karpinski</a> (Data Scientist, Summer 2013-Fall 2014)</p>
+</li>
+<li>
+<p><a href="http://runpeng.mit.edu">Runpeng Liu</a> (Undergraduate Student, Fall 2015)</p>
+</li>
+<li>
+<p><a href="https://github.com/vtjnash">Jameson Nash</a> (Undergraduate Student, Summer 2013)</p>
 </li>
 <li>
 <p><a href="http://marjan.fesb.hr/~slap/index1.html">Prof. Dr. Ivan Slapničar</a>
   (Visiting Professor, Fall 2014)</p>
 </li>
 <li>
-<p>Keno Fischer (Undergraduate Student, Summer 2013 and Summer 2014)</p>
-</li>
-<li>
-<p>Jameson Nash (Undergraduate Student, Summer 2013)</p>
+<p><a href="https://github.com/weijianzhang">Weijian Zhang</a> (Visiting Student, Spring 2016)</p>
 </li>
 </ul>
 <h2 id="collaborators">Collaborators</h2>
@@ -187,7 +237,6 @@ world.</p>
 <p>Members of the <a href="http://www.juliaopt.org">JuliaOpt</a> team at the <a href="http://web.mit.edu/orc/www/">Operations
   Research Center</a></p>
 </li>
-<li><a href="../iaindunning.com">Iain Dunning</a></li>
 <li><a href="http://www.mit.edu/~huchette">Joey Huchette</a></li>
 <li><a href="http://orc.scripts.mit.edu/people/student.php?name=yeesian">Yee Sian Ng</a></li>
 <li><a href="http://www.mit.edu/~mlubin/">Miles Lubin</a></li>
@@ -236,6 +285,33 @@ world.</p>
         <script src="../js/jquery-1.10.2.min.js"></script>
         <script src="../js/bootstrap-3.0.3.min.js"></script>
         <script src="../js/highlight.pack.js"></script>
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
         <script src="../js/base.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            From here you can search these documents. Enter
+                            your search terms below.
+                        </p>
+                        <form role="form">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                            </div>
+                        </form>
+                        <div id="mkdocs-search-results"></div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
