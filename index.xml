@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiahao Chen on Jiahao Chen</title>
+    <link>https://jiahao.github.io/</link>
+    <description>Recent content in Jiahao Chen on Jiahao Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2019 Cornell CAM Colloquium</title>
+      <link>https://jiahao.github.io/talk/2019-cornell-cam/</link>
+      <pubDate>Tue, 18 Dec 2018 10:09:05 -0500</pubDate>
+      
+      <guid>https://jiahao.github.io/talk/2019-cornell-cam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia</title>
+      <link>https://jiahao.github.io/project/julia/</link>
+      <pubDate>Tue, 18 Dec 2018 00:04:06 -0500</pubDate>
+      
+      <guid>https://jiahao.github.io/project/julia/</guid>
+      <description>&lt;p&gt;I am a core contributor to the &lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34;&gt;Julia programming language&lt;/a&gt;.
+In addition to starting and running the &lt;a href=&#34;https://julia.mit.edu&#34; target=&#34;_blank&#34;&gt;Julia Lab&lt;/a&gt;
+at &lt;a href=&#34;https://csail.mit.edu&#34; target=&#34;_blank&#34;&gt;MIT CSAIL&lt;/a&gt; from 2013&amp;mdash;2017, I
+have also made over 500 commits to
+the core &lt;a href=&#34;https://github.com/JuliaLang/julia/graphs/contributors&#34; target=&#34;_blank&#34;&gt;Julia repository&lt;/a&gt;,
+and authored over 80 Julia packages spread over the
+&lt;a href=&#34;https://github.com/JuliaMatrices&#34; target=&#34;_blank&#34;&gt;JuliaMatrices&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaMath&#34; target=&#34;_blank&#34;&gt;JuliaMath&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaParallel&#34; target=&#34;_blank&#34;&gt;JuliaParallel&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaQuantum&#34; target=&#34;_blank&#34;&gt;JuliaQuantum&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaSparse&#34; target=&#34;_blank&#34;&gt;JuliaSparse&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaStats&#34; target=&#34;_blank&#34;&gt;JuliaStats&lt;/a&gt;,
+and
+&lt;a href=&#34;https://github.com/JuliaText&#34; target=&#34;_blank&#34;&gt;JuliaText&lt;/a&gt;
+organizations,
+and also my &lt;a href=&#34;https://github.com/jiahao?tab=repositories&amp;amp;q=.jl&#34; target=&#34;_blank&#34;&gt;personal account&lt;/a&gt;.
+I am also involved in
+the &lt;a href=&#34;https://github.com/JuliaCN&#34; target=&#34;_blank&#34;&gt;JuliaCN&lt;/a&gt; documentation translation efforts into Mandarin Chinese,
+the &lt;a href=&#34;https://github.com/JuliaCon&#34; target=&#34;_blank&#34;&gt;JuliaCon&lt;/a&gt; organizing committee (including
+chairing the first three JuliaCons 2014&amp;mdash;2016),
+and broader outreach efforts through the &lt;a href=&#34;https://numfocus.org/&#34; target=&#34;_blank&#34;&gt;NumFOCUS&lt;/a&gt;
+nonprofit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</title>
+      <link>https://jiahao.github.io/publication/chen-2019-fatstar/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jiahao.github.io/publication/chen-2019-fatstar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Lending Needs Explainable Models for Responsible Recommendation</title>
+      <link>https://jiahao.github.io/talk/2018-fatrec/</link>
+      <pubDate>Sat, 06 Oct 2018 10:02:36 -0500</pubDate>
+      
+      <guid>https://jiahao.github.io/talk/2018-fatrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair lending needs explainable models for responsible recommendation</title>
+      <link>https://jiahao.github.io/publication/chen-2018-fatrec/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jiahao.github.io/publication/chen-2018-fatrec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

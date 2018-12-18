@@ -1,52 +1,147 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
     
     <url>
-     <loc>https://jiahao.github.io/group/</loc>
-     <lastmod>2016-06-21</lastmod>
-     <changefreq>daily</changefreq>
+    
+      <loc>https://jiahao.github.io/talk/2019-cornell-cam/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
     </url>
     
-
+  
     
     <url>
-     <loc>https://jiahao.github.io/research/</loc>
-     <lastmod>2016-06-21</lastmod>
-     <changefreq>daily</changefreq>
+    
+      <loc>https://jiahao.github.io/project/julia/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
     </url>
     
-
+  
     
     <url>
-     <loc>https://jiahao.github.io/openings/</loc>
-     <lastmod>2016-06-21</lastmod>
-     <changefreq>daily</changefreq>
+    
+      <loc>https://jiahao.github.io/publication/chen-2019-fatstar/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
     </url>
     
-
+  
     
     <url>
-     <loc>https://jiahao.github.io/</loc>
-     <lastmod>2016-06-21</lastmod>
-     <changefreq>daily</changefreq>
+    
+      <loc>https://jiahao.github.io/talk/2018-fatrec/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
     </url>
     
-
+  
     
     <url>
-     <loc>https://jiahao.github.io/code/</loc>
-     <lastmod>2016-06-21</lastmod>
-     <changefreq>daily</changefreq>
+    
+      <loc>https://jiahao.github.io/publication/chen-2018-fatrec/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
     </url>
     
-
+  
     
     <url>
-     <loc>https://jiahao.github.io/pubs/</loc>
-     <lastmod>2016-06-21</lastmod>
-     <changefreq>daily</changefreq>
+    
+      <loc>https://jiahao.github.io/post/</loc>
+      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
     </url>
     
-
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/publication/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/talk/</loc>
+      <lastmod>2018-10-14T02:15:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/publication_types/1/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/</loc>
+      <lastmod>2018-10-01T00:16:12+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/project/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/publication_types/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/tags/data-science/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/tags/julia/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jiahao.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-12-18T10:22:30-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
 </urlset>

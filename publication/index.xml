@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jiahao Chen</title>
+    <link>https://jiahao.github.io/publication/</link>
+    <description>Recent content in Publications on Jiahao Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jiahao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</title>
+      <link>https://jiahao.github.io/publication/chen-2019-fatstar/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jiahao.github.io/publication/chen-2019-fatstar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair lending needs explainable models for responsible recommendation</title>
+      <link>https://jiahao.github.io/publication/chen-2018-fatrec/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jiahao.github.io/publication/chen-2018-fatrec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
