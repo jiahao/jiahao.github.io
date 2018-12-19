@@ -12,5 +12,15 @@
 	<atom:link href="https://jiahao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Hiring ML Researchers at Capital One</title>
+      <link>https://jiahao.github.io/post/2018-11-hiring/</link>
+      <pubDate>Sun, 14 Oct 2018 23:46:49 -0500</pubDate>
+      
+      <guid>https://jiahao.github.io/post/2018-11-hiring/</guid>
+      <description>I&amp;rsquo;m hiring a team at Capital One in New York for R&amp;amp;D efforts to bring state-of-the-art machine learning techniques to the retail financial services industry. Capital One’s goal is to Change Banking for Good, and in this position, you will be in a very real position to transform entire business processes by:
+ driving cutting-edge research in the rapidly growing area of FAT/FATE/FATES ML (fair, accountable, transparent, ethical, safe, and secure machine learning), connecting the academic machine learning community to real and tangible challenges in the banking and financial services industry, advocating for fair and explainable machine learning within the business, and putting new tests, algorithms and processes into production together with business partners across the company.</description>
+    </item>
+    
   </channel>
 </rss>

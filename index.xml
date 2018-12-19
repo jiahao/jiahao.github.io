@@ -60,6 +60,38 @@ nonprofit.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Hiring ML Researchers at Capital One</title>
+      <link>https://jiahao.github.io/post/2018-11-hiring/</link>
+      <pubDate>Sun, 14 Oct 2018 23:46:49 -0500</pubDate>
+      
+      <guid>https://jiahao.github.io/post/2018-11-hiring/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m hiring a team at Capital One in New York for R&amp;amp;D efforts to bring state-of-the-art machine learning techniques to the retail financial services industry. Capital One’s goal is to Change Banking for Good, and in this position, you will be in a very real position to transform entire business processes by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;driving cutting-edge research in the rapidly growing area of FAT/FATE/FATES ML (fair, accountable, transparent, ethical, safe, and secure machine learning),&lt;/li&gt;
+&lt;li&gt;connecting the academic machine learning community to real and tangible challenges in the banking and financial services industry,&lt;/li&gt;
+&lt;li&gt;advocating for fair and explainable machine learning within the business, and&lt;/li&gt;
+&lt;li&gt;putting new tests, algorithms and processes into production together with business partners across the company.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What my team has been up to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;In October, I presented short position paper on why banks need fair and explainable machine learning at FATREC (a ACM RecSys workshop). Fairness and explainability are not only nice to have, but in many applications in banking, they are actually required by law!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In December, we will co-organize the NIPS 2018 Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy, together with industry partners at JPMorgan and S&amp;amp;P Global, and academic partners at Columbia, Cornell, and CMU.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In January, we will present a paper jointly authored with Cornell University at the ACM FAT* conference,on statistical biases inherent to tests for inequity with unknown labels&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m seeking machine learning researchers who are interested in digging deep into the banking business and finding opportunities to articulate and solve new research problems that surface from our concrete and practical business needs.&lt;/p&gt;
+
+&lt;p&gt;Please see our &lt;a href=&#34;https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/New-York-NY/Machine-Learning-Scientist--Emerging-Tech_R61148&#34; target=&#34;_blank&#34;&gt;official job listing on Workday&lt;/a&gt;.
+We’re hiring at the Principal Associate level (this posting) and also at the more experienced Senior Manager level (PhD + relevant industry experience).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fair Lending Needs Explainable Models for Responsible Recommendation</title>
       <link>https://jiahao.github.io/talk/2018-fatrec/</link>
       <pubDate>Sat, 06 Oct 2018 10:02:36 -0500</pubDate>
