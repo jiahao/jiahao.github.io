@@ -51,6 +51,14 @@ nonprofit.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Sponsor Address: J.P.Morgan Chase &amp; Co.</title>
+      <link>https://jiahao.github.io/talk/2019-07-juliacon/</link>
+      <pubDate>Wed, 24 Jul 2019 09:30:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2019-07-juliacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DCGSAC Careers in Chemistry Symposium</title>
       <link>https://jiahao.github.io/talk/2019-06-dcgsac/</link>
       <pubDate>Fri, 28 Jun 2019 14:00:00 +0800</pubDate>
@@ -100,6 +108,14 @@ nonprofit.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Sponsor Address: Capital One</title>
+      <link>https://jiahao.github.io/talk/2018-08-juliacon/</link>
+      <pubDate>Fri, 10 Aug 2018 14:00:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2018-08-juliacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fast computation of the principal components of genotype matrices in Julia</title>
       <link>https://jiahao.github.io/publication/chen-2018-b/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
@@ -115,22 +131,6 @@ nonprofit.&lt;/p&gt;
       <guid>https://jiahao.github.io/publication/chen-2018-c/</guid>
       <description>&lt;p&gt;This paper was rejected several times from multiple programming language conferences. Happily, a heavily revised version of this paper finally made it into OOPSLA 2018.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Sponsor Talk: Capital One</title>
-      <link>https://jiahao.github.io/talk/2018-08-juliacon/</link>
-      <pubDate>Thu, 10 Aug 2017 14:00:00 +0100</pubDate>
-      <guid>https://jiahao.github.io/talk/2018-08-juliacon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sponsor Address: J.P.Morgan Chase &amp; Co.</title>
-      <link>https://jiahao.github.io/talk/2019-07-juliacon/</link>
-      <pubDate>Mon, 24 Jul 2017 09:30:00 -0400</pubDate>
-      <guid>https://jiahao.github.io/talk/2019-07-juliacon/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -290,6 +290,14 @@ nonprofit.&lt;/p&gt;
       <link>https://jiahao.github.io/talk/2015-05-smart/</link>
       <pubDate>Fri, 05 Jun 2015 09:00:00 +0800</pubDate>
       <guid>https://jiahao.github.io/talk/2015-05-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding ECG signals in the MIMIC II database</title>
+      <link>https://jiahao.github.io/talk/2015-05-mit/</link>
+      <pubDate>Thu, 21 May 2015 16:20:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-05-mit/</guid>
       <description></description>
     </item>
     
