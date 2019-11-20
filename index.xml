@@ -5,20 +5,12 @@
     <link>https://jiahao.github.io/</link>
       <atom:link href="https://jiahao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiahao Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 21 Nov 2019 02:24:56 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 16:42:37 +0800</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Jiahao Chen</title>
       <link>https://jiahao.github.io/</link>
     </image>
-    
-    <item>
-      <title>Robustly Benchmarking Julia in Noisy Environments</title>
-      <link>https://jiahao.github.io/talk/2019-11-splash/</link>
-      <pubDate>Thu, 21 Nov 2019 02:24:56 +0800</pubDate>
-      <guid>https://jiahao.github.io/talk/2019-11-splash/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Julia</title>
@@ -89,6 +81,14 @@ nonprofit.&lt;/p&gt;
       <guid>https://jiahao.github.io/talk/2019-01-fatstar/</guid>
       <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34; target=&#34;_blank&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One based on &lt;a href=&#34;../../publication/chen-2019-a/&#34;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Robustly Benchmarking Julia in Noisy Environments</title>
+      <link>https://jiahao.github.io/talk/2018-11-splash/</link>
+      <pubDate>Wed, 07 Nov 2018 15:30:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2018-11-splash/</guid>
+      <description></description>
     </item>
     
     <item>

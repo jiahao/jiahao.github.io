@@ -54,6 +54,14 @@
     </item>
     
     <item>
+      <title>Robustly Benchmarking Julia in Noisy Environments</title>
+      <link>https://jiahao.github.io/talk/2018-11-splash/</link>
+      <pubDate>Wed, 07 Nov 2018 15:30:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2018-11-splash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Julia: Dynamism and Performance Reconciled by Design</title>
       <link>https://jiahao.github.io/publication/bezanson-2018/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
