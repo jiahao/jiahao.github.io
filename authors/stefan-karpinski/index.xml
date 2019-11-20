@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Karpinski | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/stefan-karpinski/</link>
+      <atom:link href="https://jiahao.github.io/authors/stefan-karpinski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan Karpinski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Stefan Karpinski</title>
+      <link>https://jiahao.github.io/authors/stefan-karpinski/</link>
+    </image>
+    
+    <item>
+      <title>Julia: Dynamism and Performance Reconciled by Design</title>
+      <link>https://jiahao.github.io/publication/bezanson-2018/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Array operators using multiple dispatch: a design methodology for array implementations in dynamic languages</title>
+      <link>https://jiahao.github.io/publication/bezanson-2014/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

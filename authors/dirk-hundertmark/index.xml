@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dirk Hundertmark | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/dirk-hundertmark/</link>
+      <atom:link href="https://jiahao.github.io/authors/dirk-hundertmark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dirk Hundertmark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 07 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Dirk Hundertmark</title>
+      <link>https://jiahao.github.io/authors/dirk-hundertmark/</link>
+    </image>
+    
+    <item>
+      <title>A unified theoretical framework for fluctuating-charge models in atom-space and in bond-space</title>
+      <link>https://jiahao.github.io/publication/chen-2008/</link>
+      <pubDate>Sun, 07 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

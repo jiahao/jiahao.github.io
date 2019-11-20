@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Noack | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/andreas-noack/</link>
+      <atom:link href="https://jiahao.github.io/authors/andreas-noack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Noack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Andreas Noack</title>
+      <link>https://jiahao.github.io/authors/andreas-noack/</link>
+    </image>
+    
+    <item>
+      <title>Fast computation of the principal components of genotype matrices in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2018-b/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-b/</guid>
+      <description>&lt;p&gt;This paper was submitted to the &lt;em&gt;Proceedings of the Fourteenth Copper Mountain Conference on Iterative Methods&lt;/em&gt;, but was ultimately rejected for publication despite positive reception at the oral talk.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Bezanson | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/jeff-bezanson/</link>
+      <atom:link href="https://jiahao.github.io/authors/jeff-bezanson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeff Bezanson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Jeff Bezanson</title>
+      <link>https://jiahao.github.io/authors/jeff-bezanson/</link>
+    </image>
+    
+    <item>
+      <title>Julia: Dynamism and Performance Reconciled by Design</title>
+      <link>https://jiahao.github.io/publication/bezanson-2018/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast flexible function dispatch in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2018-c/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-c/</guid>
+      <description>&lt;p&gt;This paper was rejected several times from multiple programming language conferences. Happily, a heavily revised version of this paper finally made it into OOPSLA 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Array operators using multiple dispatch: a design methodology for array implementations in dynamic languages</title>
+      <link>https://jiahao.github.io/publication/bezanson-2014/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

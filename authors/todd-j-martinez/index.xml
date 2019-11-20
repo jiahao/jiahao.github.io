@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todd J Martínez | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/todd-j-martinez/</link>
+      <atom:link href="https://jiahao.github.io/authors/todd-j-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Todd J Martínez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 28 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Todd J Martínez</title>
+      <link>https://jiahao.github.io/authors/todd-j-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Charge conservation in electronegativity equalization and its implications for the electrostatic properties of fluctuating-charge models</title>
+      <link>https://jiahao.github.io/publication/chen-2009/</link>
+      <pubDate>Tue, 28 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dissociation catastrophe in fluctuating-charge models and its implications for the concept of atomic electronegativity</title>
+      <link>https://jiahao.github.io/publication/chen-2008-a/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size-extensive polarizabilities with intermolecular charge transfer in a fluctuating-charge model</title>
+      <link>https://jiahao.github.io/publication/chen-2008121544/</link>
+      <pubDate>Mon, 15 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008121544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified theoretical framework for fluctuating-charge models in atom-space and in bond-space</title>
+      <link>https://jiahao.github.io/publication/chen-2008/</link>
+      <pubDate>Sun, 07 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QTPIE: Charge transfer with polarization current equalization. A fluctuating charge model with correct asymptotics</title>
+      <link>https://jiahao.github.io/publication/chen-2007/</link>
+      <pubDate>Fri, 20 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Edelman | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/alan-edelman/</link>
+      <atom:link href="https://jiahao.github.io/authors/alan-edelman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan Edelman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Alan Edelman</title>
+      <link>https://jiahao.github.io/authors/alan-edelman/</link>
+    </image>
+    
+    <item>
+      <title>Fast computation of the principal components of genotype matrices in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2018-b/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-b/</guid>
+      <description>&lt;p&gt;This paper was submitted to the &lt;em&gt;Proceedings of the Fourteenth Copper Mountain Conference on Iterative Methods&lt;/em&gt;, but was ultimately rejected for publication despite positive reception at the oral talk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust benchmarking in noisy environments</title>
+      <link>https://jiahao.github.io/publication/chen-2016-b/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Prefix Polymorphism Permits Parallelization, Presentation &amp; Proof</title>
+      <link>https://jiahao.github.io/publication/chen-2014/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Array operators using multiple dispatch: a design methodology for array implementations in dynamic languages</title>
+      <link>https://jiahao.github.io/publication/bezanson-2014/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error analysis of free probability approximations to the density of states of disordered systems</title>
+      <link>https://jiahao.github.io/publication/chen-2012-a/</link>
+      <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial freeness of random matrices</title>
+      <link>https://jiahao.github.io/publication/chen-2012-f/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2012-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

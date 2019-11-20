@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Jiahao Chen</title>
+    <link>https://jiahao.github.io/publication_types/3/</link>
+      <atom:link href="https://jiahao.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Dec 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>3</title>
+      <link>https://jiahao.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Improving the performance of the TINKER classical molecular dynamics program while maintaining code readability</title>
+      <link>https://jiahao.github.io/publication/chen-2007-b/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2007-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to finite normalized tight frames</title>
+      <link>https://jiahao.github.io/publication/chen-2007-a/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition of a rigorous partial charge from grand canonical electronic structure theories</title>
+      <link>https://jiahao.github.io/publication/chen-2005-b/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemics on small-world networks</title>
+      <link>https://jiahao.github.io/publication/chen-2005/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excitation Energy Transfer in a Monomer of Light-Harvesting Complex II of Spinach</title>
+      <link>https://jiahao.github.io/publication/chen-2004/</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-dimensional Monte Carlo Simulation of Nematic Elastomers</title>
+      <link>https://jiahao.github.io/publication/chen-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

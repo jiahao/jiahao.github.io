@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guinevere Mathies | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/guinevere-mathies/</link>
+      <atom:link href="https://jiahao.github.io/authors/guinevere-mathies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guinevere Mathies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 14 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Guinevere Mathies</title>
+      <link>https://jiahao.github.io/authors/guinevere-mathies/</link>
+    </image>
+    
+    <item>
+      <title>A Chemically Competent Thiosulfuranyl Radical on the Escherichia coli Class III Ribonucleotide Reductase</title>
+      <link>https://jiahao.github.io/publication/wei-2014/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/wei-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

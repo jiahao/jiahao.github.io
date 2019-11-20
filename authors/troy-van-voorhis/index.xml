@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troy Van Voorhis | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/troy-van-voorhis/</link>
+      <atom:link href="https://jiahao.github.io/authors/troy-van-voorhis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Troy Van Voorhis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Troy Van Voorhis</title>
+      <link>https://jiahao.github.io/authors/troy-van-voorhis/</link>
+    </image>
+    
+    <item>
+      <title>Why many semiempirical molecular orbital theories fail for liquid water and how to fix them</title>
+      <link>https://jiahao.github.io/publication/welborn-2015/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/welborn-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densities of states for disordered systems from free probability</title>
+      <link>https://jiahao.github.io/publication/welborn-2013-a/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/welborn-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pathway to Diphosphorus from the Dissocation of Photoexcited Tetraphosphorus</title>
+      <link>https://jiahao.github.io/publication/wang-2013-a/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/wang-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic parameterization of polarizable force fields from quantum chemistry data</title>
+      <link>https://jiahao.github.io/publication/wang-2012-a/</link>
+      <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/wang-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error analysis of free probability approximations to the density of states of disordered systems</title>
+      <link>https://jiahao.github.io/publication/chen-2012-a/</link>
+      <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2012-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

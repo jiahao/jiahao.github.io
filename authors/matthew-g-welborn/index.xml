@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew G Welborn | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/matthew-g-welborn/</link>
+      <atom:link href="https://jiahao.github.io/authors/matthew-g-welborn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew G Welborn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 12 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Matthew G Welborn</title>
+      <link>https://jiahao.github.io/authors/matthew-g-welborn/</link>
+    </image>
+    
+    <item>
+      <title>Why many semiempirical molecular orbital theories fail for liquid water and how to fix them</title>
+      <link>https://jiahao.github.io/publication/welborn-2015/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/welborn-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densities of states for disordered systems from free probability</title>
+      <link>https://jiahao.github.io/publication/welborn-2013-a/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/welborn-2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

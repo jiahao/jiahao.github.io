@@ -5,7 +5,7 @@
     <link>https://jiahao.github.io/authors/madeleine-udell/</link>
       <atom:link href="https://jiahao.github.io/authors/madeleine-udell/index.xml" rel="self" type="application/rss+xml" />
     <description>Madeleine Udell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 18 Jan 2019 09:56:15 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Madeleine Udell</title>
@@ -14,19 +14,19 @@
     
     <item>
       <title>Fairness under unawareness: assessing disparity when protected class is unobserved</title>
+      <link>https://jiahao.github.io/publication/chen-2019-a/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness under unawareness: assessing disparity when protected class is unobserved</title>
       <link>https://jiahao.github.io/talk/2019-fatstar/</link>
       <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
       <guid>https://jiahao.github.io/talk/2019-fatstar/</guid>
       <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34; target=&#34;_blank&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</title>
-      <link>https://jiahao.github.io/publication/chen-2019-fatstar/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0800</pubDate>
-      <guid>https://jiahao.github.io/publication/chen-2019-fatstar/</guid>
-      <description></description>
     </item>
     
   </channel>

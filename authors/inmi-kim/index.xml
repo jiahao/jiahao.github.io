@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inmi Kim | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/inmi-kim/</link>
+      <atom:link href="https://jiahao.github.io/authors/inmi-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inmi Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 May 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Inmi Kim</title>
+      <link>https://jiahao.github.io/authors/inmi-kim/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to finite normalized tight frames</title>
+      <link>https://jiahao.github.io/publication/chen-2007-a/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2007-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

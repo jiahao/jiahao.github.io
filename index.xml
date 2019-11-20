@@ -44,6 +44,14 @@ nonprofit.&lt;/p&gt;
     
     <item>
       <title>Fairness under unawareness: assessing disparity when protected class is unobserved</title>
+      <link>https://jiahao.github.io/publication/chen-2019-a/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fairness under unawareness: assessing disparity when protected class is unobserved</title>
       <link>https://jiahao.github.io/talk/2019-fatstar/</link>
       <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
       <guid>https://jiahao.github.io/talk/2019-fatstar/</guid>
@@ -52,10 +60,10 @@ nonprofit.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</title>
-      <link>https://jiahao.github.io/publication/chen-2019-fatstar/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0800</pubDate>
-      <guid>https://jiahao.github.io/publication/chen-2019-fatstar/</guid>
+      <title>Julia: Dynamism and Performance Reconciled by Design</title>
+      <link>https://jiahao.github.io/publication/bezanson-2018/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2018/</guid>
       <description></description>
     </item>
     
@@ -69,9 +77,289 @@ nonprofit.&lt;/p&gt;
     
     <item>
       <title>Fair lending needs explainable models for responsible recommendation</title>
-      <link>https://jiahao.github.io/publication/chen-2018-fatrec/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 +0800</pubDate>
-      <guid>https://jiahao.github.io/publication/chen-2018-fatrec/</guid>
+      <link>https://jiahao.github.io/publication/chen-2018-d/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast computation of the principal components of genotype matrices in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2018-b/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-b/</guid>
+      <description>&lt;p&gt;This paper was submitted to the &lt;em&gt;Proceedings of the Fourteenth Copper Mountain Conference on Iterative Methods&lt;/em&gt;, but was ultimately rejected for publication despite positive reception at the oral talk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast flexible function dispatch in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2018-c/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-c/</guid>
+      <description>&lt;p&gt;This paper was rejected several times from multiple programming language conferences. Happily, a heavily revised version of this paper finally made it into OOPSLA 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing parallel code in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2016-d/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust benchmarking in noisy environments</title>
+      <link>https://jiahao.github.io/publication/chen-2016-b/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistic Relativity and Programming Languages</title>
+      <link>https://jiahao.github.io/publication/chen-2016-c/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Right Way to Search Evolving Graphs</title>
+      <link>https://jiahao.github.io/publication/chen-2016-a/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why many semiempirical molecular orbital theories fail for liquid water and how to fix them</title>
+      <link>https://jiahao.github.io/publication/welborn-2015/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/welborn-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Prefix Polymorphism Permits Parallelization, Presentation &amp; Proof</title>
+      <link>https://jiahao.github.io/publication/chen-2014/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Array operators using multiple dispatch: a design methodology for array implementations in dynamic languages</title>
+      <link>https://jiahao.github.io/publication/bezanson-2014/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Chemically Competent Thiosulfuranyl Radical on the Escherichia coli Class III Ribonucleotide Reductase</title>
+      <link>https://jiahao.github.io/publication/wei-2014/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/wei-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia语言初探 (An Introduction to the Julia Language)</title>
+      <link>https://jiahao.github.io/publication/chen-2014-p/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2014-p/</guid>
+      <description>&lt;p&gt;This article for the Chinese programming journal &lt;em&gt;程序员 (The Programmer)&lt;/em&gt; is probably the longest single piece of writing in Mandarin I have ever undertaken.&lt;/p&gt;
+
+&lt;p&gt;Reproduced here is the draft contained in a gist.&lt;/p&gt;
+
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/jiahao/b2ae0e434968f4f2bf10.js&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Open Big Data Computing with Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2013/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densities of states for disordered systems from free probability</title>
+      <link>https://jiahao.github.io/publication/welborn-2013-a/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/welborn-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pathway to Diphosphorus from the Dissocation of Photoexcited Tetraphosphorus</title>
+      <link>https://jiahao.github.io/publication/wang-2013-a/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/wang-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear dimensionality reduction for nonadiabatic dynamics: The influence of conical intersection topography on population transfer rates</title>
+      <link>https://jiahao.github.io/publication/virshup-2012-a/</link>
+      <pubDate>Fri, 14 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/virshup-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic parameterization of polarizable force fields from quantum chemistry data</title>
+      <link>https://jiahao.github.io/publication/wang-2012-a/</link>
+      <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/wang-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the dearomative rearrangment of biaryl monophosphine-ligated Pd(II) complexes</title>
+      <link>https://jiahao.github.io/publication/chen-2012-c/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2012-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error analysis of free probability approximations to the density of states of disordered systems</title>
+      <link>https://jiahao.github.io/publication/chen-2012-a/</link>
+      <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial freeness of random matrices</title>
+      <link>https://jiahao.github.io/publication/chen-2012-f/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2012-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charge conservation in electronegativity equalization and its implications for the electrostatic properties of fluctuating-charge models</title>
+      <link>https://jiahao.github.io/publication/chen-2009/</link>
+      <pubDate>Tue, 28 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dissociation catastrophe in fluctuating-charge models and its implications for the concept of atomic electronegativity</title>
+      <link>https://jiahao.github.io/publication/chen-2008-a/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory and applications of fluctuating-charge models</title>
+      <link>https://jiahao.github.io/publication/chen-2009-thesis/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2009-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size-extensive polarizabilities with intermolecular charge transfer in a fluctuating-charge model</title>
+      <link>https://jiahao.github.io/publication/chen-2008121544/</link>
+      <pubDate>Mon, 15 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008121544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified theoretical framework for fluctuating-charge models in atom-space and in bond-space</title>
+      <link>https://jiahao.github.io/publication/chen-2008/</link>
+      <pubDate>Sun, 07 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comments in General Discussion</title>
+      <link>https://jiahao.github.io/publication/chen-2008-fd/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2008-fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the performance of the TINKER classical molecular dynamics program while maintaining code readability</title>
+      <link>https://jiahao.github.io/publication/chen-2007-b/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2007-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to finite normalized tight frames</title>
+      <link>https://jiahao.github.io/publication/chen-2007-a/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QTPIE: Charge transfer with polarization current equalization. A fluctuating charge model with correct asymptotics</title>
+      <link>https://jiahao.github.io/publication/chen-2007/</link>
+      <pubDate>Fri, 20 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition of a rigorous partial charge from grand canonical electronic structure theories</title>
+      <link>https://jiahao.github.io/publication/chen-2005-b/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2005-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemics on small-world networks</title>
+      <link>https://jiahao.github.io/publication/chen-2005/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excitation Energy Transfer in a Monomer of Light-Harvesting Complex II of Spinach</title>
+      <link>https://jiahao.github.io/publication/chen-2004/</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulations of the exciton coherence length in the photosynthetic light harvesting complex II (LHC-II) of higher plants</title>
+      <link>https://jiahao.github.io/publication/chen-2002-thesis/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2002-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-dimensional Monte Carlo Simulation of Nematic Elastomers</title>
+      <link>https://jiahao.github.io/publication/chen-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a Mixed-Metal {RuPt} Complex from a Ruthenium Cluster</title>
+      <link>https://jiahao.github.io/publication/chen-1998/</link>
+      <pubDate>Tue, 10 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-1998/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://jiahao.github.io/publication_types/1/</link>
       <atom:link href="https://jiahao.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>1</title>
@@ -13,18 +13,82 @@
     </image>
     
     <item>
-      <title>Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</title>
-      <link>https://jiahao.github.io/publication/chen-2019-fatstar/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0800</pubDate>
-      <guid>https://jiahao.github.io/publication/chen-2019-fatstar/</guid>
+      <title>Fairness under unawareness: assessing disparity when protected class is unobserved</title>
+      <link>https://jiahao.github.io/publication/chen-2019-a/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia: Dynamism and Performance Reconciled by Design</title>
+      <link>https://jiahao.github.io/publication/bezanson-2018/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fair lending needs explainable models for responsible recommendation</title>
-      <link>https://jiahao.github.io/publication/chen-2018-fatrec/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 +0800</pubDate>
-      <guid>https://jiahao.github.io/publication/chen-2018-fatrec/</guid>
+      <link>https://jiahao.github.io/publication/chen-2018-d/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing parallel code in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2016-d/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust benchmarking in noisy environments</title>
+      <link>https://jiahao.github.io/publication/chen-2016-b/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistic Relativity and Programming Languages</title>
+      <link>https://jiahao.github.io/publication/chen-2016-c/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Right Way to Search Evolving Graphs</title>
+      <link>https://jiahao.github.io/publication/chen-2016-a/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Prefix Polymorphism Permits Parallelization, Presentation &amp; Proof</title>
+      <link>https://jiahao.github.io/publication/chen-2014/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Array operators using multiple dispatch: a design methodology for array implementations in dynamic languages</title>
+      <link>https://jiahao.github.io/publication/bezanson-2014/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/bezanson-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a Mixed-Metal {RuPt} Complex from a Ruthenium Cluster</title>
+      <link>https://jiahao.github.io/publication/chen-1998/</link>
+      <pubDate>Tue, 10 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-1998/</guid>
       <description></description>
     </item>
     

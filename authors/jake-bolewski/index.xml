@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jake Bolewski | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/jake-bolewski/</link>
+      <atom:link href="https://jiahao.github.io/authors/jake-bolewski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jake Bolewski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Jake Bolewski</title>
+      <link>https://jiahao.github.io/authors/jake-bolewski/</link>
+    </image>
+    
+    <item>
+      <title>Fast flexible function dispatch in Julia</title>
+      <link>https://jiahao.github.io/publication/chen-2018-c/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2018-c/</guid>
+      <description>&lt;p&gt;This paper was rejected several times from multiple programming language conferences. Happily, a heavily revised version of this paper finally made it into OOPSLA 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,68 @@
     <link>https://jiahao.github.io/tags/</link>
       <atom:link href="https://jiahao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 06 Jul 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://jiahao.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Charge equilibration</title>
+      <link>https://jiahao.github.io/tags/charge-equilibration/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/tags/charge-equilibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical hardness</title>
+      <link>https://jiahao.github.io/tags/chemical-hardness/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/tags/chemical-hardness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronegativity equalization</title>
+      <link>https://jiahao.github.io/tags/electronegativity-equalization/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/tags/electronegativity-equalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating charges</title>
+      <link>https://jiahao.github.io/tags/fluctuating-charges/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/tags/fluctuating-charges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Force fields</title>
+      <link>https://jiahao.github.io/tags/force-fields/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/tags/force-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular models</title>
+      <link>https://jiahao.github.io/tags/molecular-models/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/tags/molecular-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water models</title>
+      <link>https://jiahao.github.io/tags/water-models/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/tags/water-models/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

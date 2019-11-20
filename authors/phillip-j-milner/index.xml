@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phillip J Milner | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/phillip-j-milner/</link>
+      <atom:link href="https://jiahao.github.io/authors/phillip-j-milner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phillip J Milner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 15 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Phillip J Milner</title>
+      <link>https://jiahao.github.io/authors/phillip-j-milner/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the dearomative rearrangment of biaryl monophosphine-ligated Pd(II) complexes</title>
+      <link>https://jiahao.github.io/publication/chen-2012-c/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2012-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

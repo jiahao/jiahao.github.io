@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Jiahao Chen</title>
+    <link>https://jiahao.github.io/publication_types/7/</link>
+      <atom:link href="https://jiahao.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 May 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>7</title>
+      <link>https://jiahao.github.io/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Theory and applications of fluctuating-charge models</title>
+      <link>https://jiahao.github.io/publication/chen-2009-thesis/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2009-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulations of the exciton coherence length in the photosynthetic light harvesting complex II (LHC-II) of higher plants</title>
+      <link>https://jiahao.github.io/publication/chen-2002-thesis/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/publication/chen-2002-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
