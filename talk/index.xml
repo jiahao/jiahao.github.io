@@ -5,12 +5,20 @@
     <link>https://jiahao.github.io/talk/</link>
       <atom:link href="https://jiahao.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 07 Nov 2019 12:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 21 Nov 2019 02:24:56 +0800</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://jiahao.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Robustly Benchmarking Julia in Noisy Environments</title>
+      <link>https://jiahao.github.io/talk/2019-11-splash/</link>
+      <pubDate>Thu, 21 Nov 2019 02:24:56 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2019-11-splash/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fair and explainable AI/ML for financial services</title>
