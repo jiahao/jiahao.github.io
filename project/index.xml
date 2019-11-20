@@ -1,24 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jiahao Chen</title>
+    <title>Projects | Jiahao Chen</title>
     <link>https://jiahao.github.io/project/</link>
-    <description>Recent content in Projects on Jiahao Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 18 Dec 2018 00:04:06 -0500</lastBuildDate>
-    
-	<atom:link href="https://jiahao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jiahao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 16:42:37 +0800</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://jiahao.github.io/project/</link>
+    </image>
     
     <item>
       <title>Julia</title>
       <link>https://jiahao.github.io/project/julia/</link>
-      <pubDate>Tue, 18 Dec 2018 00:04:06 -0500</pubDate>
-      
+      <pubDate>Wed, 20 Nov 2019 16:42:37 +0800</pubDate>
       <guid>https://jiahao.github.io/project/julia/</guid>
-      <description>I am a core contributor to the Julia programming language. In addition to starting and running the Julia Lab at MIT CSAIL from 2013&amp;mdash;2017, I have also made over 500 commits to the core Julia repository, and authored over 80 Julia packages spread over the JuliaMatrices, JuliaMath, JuliaParallel, JuliaQuantum, JuliaSparse, JuliaStats, and JuliaText organizations, and also my personal account. I am also involved in the JuliaCN documentation translation efforts into Mandarin Chinese, the JuliaCon organizing committee (including chairing the first three JuliaCons 2014&amp;mdash;2016), and broader outreach efforts through the NumFOCUS nonprofit.</description>
+      <description>&lt;p&gt;I am a core contributor to the &lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34;&gt;Julia programming language&lt;/a&gt;.
+In addition to starting and running the &lt;a href=&#34;https://julia.mit.edu&#34; target=&#34;_blank&#34;&gt;Julia Lab&lt;/a&gt;
+at &lt;a href=&#34;https://csail.mit.edu&#34; target=&#34;_blank&#34;&gt;MIT CSAIL&lt;/a&gt; from 2013&amp;mdash;2017, I
+have also made over 500 commits to
+the core &lt;a href=&#34;https://github.com/JuliaLang/julia/graphs/contributors&#34; target=&#34;_blank&#34;&gt;Julia repository&lt;/a&gt;,
+and authored over 80 Julia packages spread over the
+&lt;a href=&#34;https://github.com/JuliaMatrices&#34; target=&#34;_blank&#34;&gt;JuliaMatrices&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaMath&#34; target=&#34;_blank&#34;&gt;JuliaMath&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaParallel&#34; target=&#34;_blank&#34;&gt;JuliaParallel&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaQuantum&#34; target=&#34;_blank&#34;&gt;JuliaQuantum&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaSparse&#34; target=&#34;_blank&#34;&gt;JuliaSparse&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaStats&#34; target=&#34;_blank&#34;&gt;JuliaStats&lt;/a&gt;,
+and
+&lt;a href=&#34;https://github.com/JuliaText&#34; target=&#34;_blank&#34;&gt;JuliaText&lt;/a&gt;
+organizations,
+and also my &lt;a href=&#34;https://github.com/jiahao?tab=repositories&amp;amp;q=.jl&#34; target=&#34;_blank&#34;&gt;personal account&lt;/a&gt;.
+I am also involved in
+the &lt;a href=&#34;https://github.com/JuliaCN&#34; target=&#34;_blank&#34;&gt;JuliaCN&lt;/a&gt; documentation translation efforts into Mandarin Chinese,
+the &lt;a href=&#34;https://github.com/JuliaCon&#34; target=&#34;_blank&#34;&gt;JuliaCon&lt;/a&gt; organizing committee (including
+chairing the first three JuliaCons 2014&amp;mdash;2016),
+and broader outreach efforts through the &lt;a href=&#34;https://numfocus.org/&#34; target=&#34;_blank&#34;&gt;NumFOCUS&lt;/a&gt;
+nonprofit.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

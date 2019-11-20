@@ -1,49 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Jiahao Chen</title>
+    <title>Recent &amp; Upcoming Talks | Jiahao Chen</title>
     <link>https://jiahao.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Jiahao Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jiahao.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>2019 Cornell CAM Colloquium</title>
-      <link>https://jiahao.github.io/talk/2019-cornell-cam/</link>
-      <pubDate>Tue, 18 Dec 2018 10:09:05 -0500</pubDate>
-      
-      <guid>https://jiahao.github.io/talk/2019-cornell-cam/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://jiahao.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 18 Jan 2019 09:56:15 -0500</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jiahao.github.io/talk/</link>
+    </image>
     
     <item>
       <title>Fairness under unawareness: assessing disparity when protected class is unobserved</title>
       <link>https://jiahao.github.io/talk/2019-fatstar/</link>
-      <pubDate>Sun, 18 Nov 2018 09:56:15 -0500</pubDate>
-      
+      <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
       <guid>https://jiahao.github.io/talk/2019-fatstar/</guid>
-      <description>My intern, Xiaojie Mao, will be presenting his summer research work.</description>
-    </item>
-    
-    <item>
-      <title>2018 NeurIPS Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy (FEAP-AI4Fin)</title>
-      <link>https://jiahao.github.io/talk/2018-ai4fin/</link>
-      <pubDate>Thu, 18 Oct 2018 23:54:05 -0500</pubDate>
-      
-      <guid>https://jiahao.github.io/talk/2018-ai4fin/</guid>
-      <description>Pleased to announce that I am organizing the First NeurIPS Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy.</description>
+      <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34; target=&#34;_blank&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Fair Lending Needs Explainable Models for Responsible Recommendation</title>
       <link>https://jiahao.github.io/talk/2018-fatrec/</link>
       <pubDate>Sat, 06 Oct 2018 10:02:36 -0500</pubDate>
-      
       <guid>https://jiahao.github.io/talk/2018-fatrec/</guid>
       <description></description>
     </item>

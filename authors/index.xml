@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/</link>
+      <atom:link href="https://jiahao.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 18 Jan 2019 09:56:15 -0500</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://jiahao.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Geoffry Svacha</title>
+      <link>https://jiahao.github.io/authors/geoffry-svacha/</link>
+      <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
+      <guid>https://jiahao.github.io/authors/geoffry-svacha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiahao Chen</title>
+      <link>https://jiahao.github.io/authors/jiahao-chen/</link>
+      <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
+      <guid>https://jiahao.github.io/authors/jiahao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madeleine Udell</title>
+      <link>https://jiahao.github.io/authors/madeleine-udell/</link>
+      <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
+      <guid>https://jiahao.github.io/authors/madeleine-udell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathan Kallus</title>
+      <link>https://jiahao.github.io/authors/nathan-kallus/</link>
+      <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
+      <guid>https://jiahao.github.io/authors/nathan-kallus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaojie Mao</title>
+      <link>https://jiahao.github.io/authors/xiaojie-mao/</link>
+      <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
+      <guid>https://jiahao.github.io/authors/xiaojie-mao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jiahao.github.io/authors/jiahao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jiahao.github.io/authors/jiahao/</guid>
+      <description>&lt;p&gt;Jiahao Chen is a Vice President and Research Lead at JPMorgan AI Research in New York, with research focusing on explainability and fairness in machine learning, as well as semantic knowledge management. He was previously a Senior Manager of Data Science at Capital One focusing on machine learning research for credit analytics and retail operations.&lt;/p&gt;
+
+&lt;p&gt;When still in academia, Jiahao was a Research Scientist at MIT CSAIL where he co-founded and led the Julia Lab, focusing on applications of the Julia programming language to data science, scientific computing, and machine learning. Jiahao has organized JuliaCon, the Julia conference, for the years 2014-2016, as well as organized workshops at NeurIPS, SIAM CSE, and the American Chemical Society National Meetings. Jiahao has authored over 120 packages for numerical computation, data science and machine learning for the Julia programming language, in addition to numerous contributions to the base language itself.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,34 @@
-
 <!DOCTYPE html>
 <html lang="en-us">
+
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.2.0">
-  <meta name="generator" content="Hugo 0.52" />
-  <meta name="author" content="Jiahao Chen">
+  <meta name="generator" content="Source Themes Academic 4.6.1">
+
+  
 
   
   
   
   
+  
+    
+    
     
   
-  <meta name="description" content="Machine Learning Research Scientist">
+  
+
+  <meta name="author" content="Jiahao Chen">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Vice President, Research Lead">
 
   
   <link rel="alternate" hreflang="en-us" href="https://jiahao.github.io/">
@@ -25,21 +37,9 @@
 
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
   
   
-  
-  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  <meta name="theme-color" content="rgb(251, 191, 183)">
   
 
   
@@ -47,10 +47,9 @@
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -60,9 +59,8 @@
     
       
       
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous">
-        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/tomorrow-night.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/tomorrow-night.min.css" crossorigin="anonymous" title="hl-dark" disabled>
       
     
 
@@ -74,37 +72,66 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
   
-
-  <link rel="stylesheet" href="/styles.css">
-  
-
-  
-  
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-142140-10', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
   
 
   
-  <link rel="alternate" href="https://jiahao.github.io/index.xml" type="application/rss+xml" title="Jiahao Chen">
-  <link rel="feed" href="https://jiahao.github.io/index.xml" type="application/rss+xml" title="Jiahao Chen">
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142140-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-142140-10', { 'anonymize_ip': true });
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Jiahao Chen">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://jiahao.github.io/">
@@ -116,6 +143,7 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@acidflask">
@@ -124,20 +152,72 @@
   <meta property="og:site_name" content="Jiahao Chen">
   <meta property="og:url" content="https://jiahao.github.io/">
   <meta property="og:title" content="Jiahao Chen">
-  <meta property="og:description" content="Machine Learning Research Scientist"><meta property="og:image" content="https://jiahao.github.io/img/portrait.jpg">
-  <meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Vice President, Research Lead"><meta property="og:image" content="https://jiahao.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://jiahao.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2017-10-15T00:00:00-04:00">
-  
-
+    <meta property="og:updated_time" content="2019-11-20T16:42:37&#43;08:00">
   
 
   
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://jiahao.github.io/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://jiahao.github.io/"
+}
+</script>
+
+
+  
+
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "rgb(251, 191, 183)",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "rgb(251, 191, 183)"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
+
+  
+
+
+
+
 
   <title>Jiahao Chen</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" class="dark">
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
@@ -154,7 +234,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -170,186 +250,240 @@
 </aside>
 
 
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    
+    
       <a class="navbar-brand" href="/">Jiahao Chen</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
       
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured" data-target="#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
       
-      <ul class="navbar-nav ml-auto">
-        
 
         
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#about" data-target="#about">
-            
-            <span>Home</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected" data-target="#publications_selected">
-            
-            <span>Publications</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#posts" data-target="#posts">
-            
-            <span>Posts</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#projects" data-target="#projects">
-            
-            <span>Projects</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/talk/" data-target="/talk/">
-            
-            <span>Talks</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#contact" data-target="#contact">
-            
-            <span>Contact</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/files/cv.pdf" data-target="files/cv.pdf">
-            
-            <span>CV</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-      
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
+  
 
-<span id="homepage" style="display: none"></span>
+
+
+
+
+
+
+
+
+
+
+<span class="js-widget-page d-none"></span>
+
+
 
 
   
@@ -358,65 +492,81 @@
 
 
 
+
+
   
   
   
-  <section id="about" class="home-section">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
     <div class="container">
       
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
+
+  
+
+
+
+
+
+
+
+
+
+<div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
-      <img class="portrait" src="/img/portrait.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait" src="https://s.gravatar.com/avatar/647909bd95accb7b1192bc5979f29d9b?s=200')" alt="Avatar">
       
 
       <div class="portrait-title">
-        <h2 itemprop="name">Jiahao Chen</h2>
-        <h3 itemprop="jobTitle">Machine Learning Research Scientist</h3>
+        <h2>Jiahao Chen</h2>
+        <h3>Vice President, Research Lead</h3>
 
         
-        
-
-        
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
-          <a href="https://capitalone.com" target="_blank" itemprop="url" rel="noopener">
-          <span itemprop="name">Capital One</span>
+        <h3>
+          <a href="https://jpmorgan.com/ai" target="_blank" rel="noopener">
+          <span>JPMorgan AI Research</span>
           </a>
         </h3>
         
       </div>
-
-      <link itemprop="url" href="https://jiahao.github.io/">
 
       <ul class="network-icon" aria-hidden="true">
         
         
         
         
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a itemprop="sameAs" href="/#contact" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
         
         
         
@@ -424,22 +574,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://www.slideshare.net/acidflask" target="_blank" rel="noopener">
-            <i class="fab fa-slideshare big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=TQYNuFAAAAAJ" target="_blank" rel="noopener">
+          <a href="https://scholar.google.com/citations?user=TQYNuFAAAAAJ" target="_blank" rel="noopener">
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
@@ -454,7 +589,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://orcid.org/0000-0002-4357-6574" target="_blank" rel="noopener">
+          <a href="https://orcid.org/0000-0002-4357-6574" target="_blank" rel="noopener">
             <i class="ai ai-orcid big-icon"></i>
           </a>
         </li>
@@ -469,7 +604,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="http://arxiv.org/a/chen_j_2" target="_blank" rel="noopener">
+          <a href="http://arxiv.org/a/chen_j_2" target="_blank" rel="noopener">
             <i class="ai ai-arxiv big-icon"></i>
           </a>
         </li>
@@ -486,7 +621,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://github.com/jiahao" target="_blank" rel="noopener">
+          <a href="https://github.com/jiahao" target="_blank" rel="noopener">
             <i class="fab fa-github big-icon"></i>
           </a>
         </li>
@@ -503,24 +638,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://www.linkedin.com/in/jiahao/" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a itemprop="sameAs" href="https://twitter.com/acidflask" target="_blank" rel="noopener">
+          <a href="https://twitter.com/acidflask" target="_blank" rel="noopener">
             <i class="fab fa-twitter big-icon"></i>
           </a>
         </li>
@@ -534,10 +652,25 @@
         
         
         
+        <li>
+          <a href="mailto:jiahao.chen@jpmorgan.com" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
           
         
         <li>
-          <a itemprop="sameAs" href="https://discourse.julialang.org/u/jiahao/" target="_blank" rel="noopener">
+          <a href="https://discourse.julialang.org/u/jiahao/" target="_blank" rel="noopener">
             <i class="fab fa-discourse big-icon"></i>
           </a>
         </li>
@@ -552,7 +685,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="/files/cv.pdf" >
+          <a href="/files/cv.pdf" >
             <i class="ai ai-cv big-icon"></i>
           </a>
         </li>
@@ -561,24 +694,14 @@
 
     </div>
   </div>
-  <div class="col-12 col-lg-8" itemprop="description">
+  <div class="col-12 col-lg-8">
 
     
+    <h1>About me</h1>
 
-<h1 id="biography">Biography</h1>
+    <p>Jiahao Chen is a Vice President and Research Lead at JPMorgan AI Research in New York, with research focusing on explainability and fairness in machine learning, as well as semantic knowledge management. He was previously a Senior Manager of Data Science at Capital One focusing on machine learning research for credit analytics and retail operations.</p>
 
-<p>Jiahao is a Manager of Data Science and Machine Learning Research Scientist in
-Card Machine Learning, specializing in emerging technologies, university
-partnerships, and research in algorithmic fairness and explainability. Prior to
-joining Capital One in 2017, Jiahao was a Research Scientist at MIT CSAIL
-who started and led the Julia Lab, focusing on applications of the Julia
-programming language to various scientific data science problems and challenges
-in parallel computing and scientific computing. Jiahao holds a PhD in chemical
-physics, a
-MS in applied mathematics, and a BS in chemistry, all from UIUC. He was
-formerly a postdoctoral associate at MIT, a visiting scholar at Ritsumeikan
-University in Japan, and a member of technical staff at DSO National
-Laboratories in Singapore.</p>
+<p>When still in academia, Jiahao was a Research Scientist at MIT CSAIL where he co-founded and led the Julia Lab, focusing on applications of the Julia programming language to data science, scientific computing, and machine learning. Jiahao has organized JuliaCon, the Julia conference, for the years 2014-2016, as well as organized workshops at NeurIPS, SIAM CSE, and the American Chemical Society National Meetings. Jiahao has authored over 120 packages for numerical computation, data science and machine learning for the Julia programming language, in addition to numerous contributions to the base language itself.</p>
 
 
     <div class="row">
@@ -588,11 +711,9 @@ Laboratories in Singapore.</p>
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Fair and explainable AI</li>
+          <li>fair &amp; trustworthy artificial intelligence</li>
           
-          <li>Deep learning</li>
-          
-          <li>High-performance computing</li>
+          <li>the <a href="https://julialang.org" target="_blank">Julia programming language</a></li>
           
         </ul>
       </div>
@@ -606,8 +727,8 @@ Laboratories in Singapore.</p>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Chemical Physics with Computational Science and Engineering Option, 2009</p>
-              <p class="institution">UIUC</p>
+              <p class="course">PhD in Chemical Physics / Computational Science &amp; Engineering, 2009</p>
+              <p class="institution">University of Illinois at Urbana-Champaign</p>
             </div>
           </li>
           
@@ -615,7 +736,7 @@ Laboratories in Singapore.</p>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">MS in Applied Mathematics, 2008</p>
-              <p class="institution">UIUC</p>
+              <p class="institution">University of Illinois at Urbana-Champaign</p>
             </div>
           </li>
           
@@ -623,7 +744,7 @@ Laboratories in Singapore.</p>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">BS in Chemistry, 2002</p>
-              <p class="institution">UIUC</p>
+              <p class="institution">University of Illinois at Urbana-Champaign</p>
             </div>
           </li>
           
@@ -637,12 +758,38 @@ Laboratories in Singapore.</p>
 
     </div>
   </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
   
 
   
   
   
-  <section id="experience" class="home-section">
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="experience" class="home-section wg-experience   "  >
     <div class="container">
       
 
@@ -678,22 +825,58 @@ Laboratories in Singapore.</p>
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <div class="float-right text-muted exp-meta">
-              <div>
-                March 2017 –
-                
-                  Present
-                
-              </div>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Vice President, Research Lead</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://jpmorgan.com/ai" target="_blank" rel="noopener">JPMorgan AI Research</a></h4>
+            <div class="text-muted exp-meta">
+              2019-03 –
               
-              <div class="text-right">New York</div>
+                Present
+              
+              
+                <span class="middot-divider"></span>
+                <span>New York</span>
               
             </div>
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Manager, Data Science</h4>
+            <div class="card-text">Research Lead spearheading projects in data management, fairness in machine learning, and explainable AI.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row experience">
+      
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Senior Manager, Data Science</h4>
             <h4 class="card-title exp-company text-muted my-0"><a href="https://capitalone.com" target="_blank" rel="noopener">Capital One</a></h4>
-            <div class="card-text"><p>ELI5: I lead a team studying how we can use machine learning fairly, to improve customer service and experience, and change banking for good.</p>
+            <div class="text-muted exp-meta">
+              2017-03 –
+              
+                2019-02
+              
+              
+                <span class="middot-divider"></span>
+                <span>New York</span>
+              
+            </div>
+            <div class="card-text"><p>ELI5: I led a team studying how we can use machine learning fairly, to improve customer service and experience, and change banking for good.</p>
 
-<p>Technical Lead for Fair and Explainable AI Research Group within Card Machine Learning. Compliance analytics for fair lending, natural language processing for customer service analytics, customer segmentation.</p>
+<p>Technical Lead for Banking on Explainable AI ResearchGroup within Card Machine Learning. Compliance analytics for fair lending, natural language processing for customer service analytics, customer segmentation.</p>
 </div>
           </div>
         </div>
@@ -719,19 +902,18 @@ Laboratories in Singapore.</p>
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <div class="float-right text-muted exp-meta">
-              <div>
-                September 2013 –
-                
-                  January 2017
-                
-              </div>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Scientist</h4>
+            <h4 class="card-title exp-company text-muted my-0"><a href="https://julia.mit.edu" target="_blank" rel="noopener">Julia Labs, MIT CSAIL</a></h4>
+            <div class="text-muted exp-meta">
+              2013-09 –
               
-              <div class="text-right">Cambridge, Massachusetts</div>
+                2017-01
+              
+              
+                <span class="middot-divider"></span>
+                <span>Cambridge, Massachusetts</span>
               
             </div>
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Scientist</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://csail.mit.edu" target="_blank" rel="noopener">MIT CSAIL</a></h4>
             <div class="card-text"><p>ELI5: I started and ran a research lab to prove that the Julia programming language was useful for big data and data science work.</p>
 
 <p>Started and managed the Julia Lab together with Professor Alan Edelman, providing the main academic funding responsible for the development, growth and adoption of the Julia programming language. Applied Julia to problems in high performance computing, computational genomics, and statistical computing. The lab comprised 16 students and postdocs at its peak.</p>
@@ -760,19 +942,18 @@ Laboratories in Singapore.</p>
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <div class="float-right text-muted exp-meta">
-              <div>
-                June 2013 –
-                
-                  September 2013
-                
-              </div>
-              
-              <div class="text-right">Kusatsu City, Shiga Prefecture, Japan</div>
-              
-            </div>
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Visiting Scholar</h4>
             <h4 class="card-title exp-company text-muted my-0"><a href="http://en.ritsumei.ac.jp" target="_blank" rel="noopener">Ritsumeikan University</a></h4>
+            <div class="text-muted exp-meta">
+              2013-06 –
+              
+                2013-09
+              
+              
+                <span class="middot-divider"></span>
+                <span>Kusatsu City, Shiga Prefecture, Japan</span>
+              
+            </div>
             <div class="card-text"><p>ELI5: I coded up a model for studying how drug molecules dissolve in water, and shipped it in commercial software.</p>
 
 <p>Productionized and shipped the 1D- and 3D-RISM (Reduced Interaction Site Model) codes that are now available in Accelrys Discovery Studio.</p>
@@ -801,19 +982,18 @@ Laboratories in Singapore.</p>
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <div class="float-right text-muted exp-meta">
-              <div>
-                June 2009 –
-                
-                  May 2013
-                
-              </div>
-              
-              <div class="text-right">Cambridge, Massachusetts</div>
-              
-            </div>
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Postdoctoral associate</h4>
             <h4 class="card-title exp-company text-muted my-0"><a href="https://chemistry.mit.edu" target="_blank" rel="noopener">MIT Chemistry</a></h4>
+            <div class="text-muted exp-meta">
+              2009-06 –
+              
+                2013-05
+              
+              
+                <span class="middot-divider"></span>
+                <span>Cambridge, Massachusetts</span>
+              
+            </div>
             <div class="card-text"><p>ELI5: I made new computer models of how molecules trap light and turn them into electricity. I used these models to study new materials used for OLEDs and solar cells.</p>
 
 <p>Computational chemistry research on organic semiconductors, using new techniques of random matrix theory blended with new molecular models for describing atomic charge excitations and transfer.</p>
@@ -842,19 +1022,18 @@ Laboratories in Singapore.</p>
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <div class="float-right text-muted exp-meta">
-              <div>
-                May 2004 –
-                
-                  October 2002
-                
-              </div>
-              
-              <div class="text-right">Singapore</div>
-              
-            </div>
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Member of Technical Staff</h4>
             <h4 class="card-title exp-company text-muted my-0"><a href="https://dso.org.sg" target="_blank" rel="noopener">DSO National Laboratories</a></h4>
+            <div class="text-muted exp-meta">
+              2004-05 –
+              
+                2002-10
+              
+              
+                <span class="middot-divider"></span>
+                <span>Singapore</span>
+              
+            </div>
             <div class="card-text"><p>ELI5: I made new materials that would distort light and/or blow up, and shoot them with lasers to see how they would react.</p>
 
 <p>Synthesized and characterized novel materials for nonlinear optics and energetic materials (explosives), with organic and inorganic chemical synthesis techniques and nonlinear laser spectroscopy.</p>
@@ -870,674 +1049,38 @@ Laboratories in Singapore.</p>
 
     </div>
   </section>
-  
-
-  
-  
-  
-  <section id="publications_selected" class="home-section">
-    <div class="container">
-      
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Selected Publications</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-    
-
-    
-      
-    
-
-    
-    
-      
-        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
   
   
   
 
-  <h3 class="article-title" itemprop="name">
-    <a href="/publication/chen-2019-fatstar/" itemprop="url">Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</a>
-  </h3>
-
-  <div class="pub-abstract" itemprop="text">
-    
-    Assessing the fairness of a decision making system with respect to a protected class, such as gender or race, is challenging when class membership labels are unavailable. Probabilistic models for predicting the protected class based on observable proxies, such as surname and geolocation for race, are sometimes used to impute these missing labels for compliance assessments. Empirically, these methods are observed to exaggerate disparities, but the reason why is unknown. In this paper, we decompose the biases in estimating outcome disparity via threshold-based imputation into multiple interpretable bias sources, allowing us to explain when over- or underestimation occurs. We also propose an alternative weighted estimator that uses soft classification, and show that its bias arises simply from the conditional covariance of the outcome with the true class membership. Finally, we illustrate our results with numerical simulations and a public dataset of mortgage applications, using geolocation as a proxy for race. We confirm that the bias of threshold-based imputation is generally upward, but its magnitude varies strongly with the threshold chosen. Our new weighted estimator tends to have a negative bias that is much simpler to analyze and reason about.
-    
-  </div>
-
-  <div class="pub-authors" itemprop="author">
-    
-    Jiahao Chen, Nathan Kallus, Xiaojie Mao, Geoffry Svacha, Madeleine Udell
-    
-  </div>
-
-  <div class="pub-publication">
-    
-    FAT* &lsquo;19 Proceedings of the First ACM Conference on the Fairness, Accountability, and Transparency of Algorithmic Systems,
-    
-    2018
-  </div>
-
-  <div class="btn-links">
-    
-
-
-
-
-
-
+  
 
   
 
+  
 
+  
 
+  
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/chen-2019-fatstar/chen-2019-fatstar.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-
-</div>
-
-      
-    
-      
-        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+  
+  
 
   
   
   
 
-  <h3 class="article-title" itemprop="name">
-    <a href="/publication/chen-2018-fatrec/" itemprop="url">Fair lending needs explainable models for responsible recommendation</a>
-  </h3>
-
-  <div class="pub-abstract" itemprop="text">
-    
-    The financial services industry has unique explainability and fairness challenges arising from compliance and ethical considerations in credit decisioning. These challenges complicate the use of model machine learning and artificial intelligence methods in business decision processes.
-    
-  </div>
-
-  <div class="pub-authors" itemprop="author">
-    
-    Jiahao Chen
-    
-  </div>
-
-  <div class="pub-publication">
-    
-    FATREC&rsquo;18 Proceedings of the Second Workshop on Responsible Recommendation,
-    
-    2018
-  </div>
-
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
   
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/chen-2018-fatrec/chen-2018-d.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-
-</div>
-
-      
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
+  
+  
+  
   
 
   
   
-  
-  <section id="publications" class="home-section">
-    <div class="container">
-      
 
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent Publications</h1>
-    
-    
-  </div>
-  <div class="col-12 col-lg-8">
-    
-
-    
-      
-    
-
-    
-
-    
-    
-      
-        <div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/chen-2019-fatstar/" itemprop="url">Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</a>
-    </h3>
-
-    
-    
-      
-    
-    
-    <div class="article-style" itemprop="articleBody">
-      Assessing the fairness of a decision making system with respect to a protected class, such as gender or race, is challenging when class …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-      <div itemprop="author">
-        Jiahao Chen, Nathan Kallus, Xiaojie Mao, Geoffry Svacha, Madeleine Udell</div>
-    </div>
-
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/chen-2019-fatstar/chen-2019-fatstar.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        <div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/chen-2018-fatrec/" itemprop="url">Fair lending needs explainable models for responsible recommendation</a>
-    </h3>
-
-    
-    
-      
-    
-    
-    <div class="article-style" itemprop="articleBody">
-      The financial services industry has unique explainability and fairness challenges arising from compliance and ethical considerations in …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-      <div itemprop="author">
-        Jiahao Chen</div>
-    </div>
-
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/chen-2018-fatrec/chen-2018-d.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
-  <section id="talks" class="home-section">
-    <div class="container">
-      
-
-
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent &amp; Upcoming Talks</h1>
-    
-    
-  </div>
-  <div class="col-12 col-lg-8">
-    <p>My publicly available slides and posters are on <a href="https://www.slideshare.net/acidflask" target="_blank">Slideshare</a>.</p>
-
-    
-
-    
-    
-
-    
-      
-        <div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/2019-cornell-cam/" itemprop="url">2019 Cornell CAM Colloquium</a>
-    </h3>
-
-    
-    
-    
-
-    <div class="stream-meta article-metadata">
-      <div>
-        
-        2019-02-15
-        
-          15:30
-          
-            &mdash; 16:30
-          
-        
-
-        
-          <span class="middot-divider"></span> Cornell Center for Applied Mathematics Colloquium
-        
-      </div>
-      <div itemprop="author">
-        Jiahao Chen</div>
-    </div>
-
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        <div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/2019-fatstar/" itemprop="url">Fairness under unawareness: assessing disparity when protected class is unobserved</a>
-    </h3>
-
-    
-    
-    
-
-    <div class="stream-meta article-metadata">
-      <div>
-        
-        2019-01-29
-        
-          00:00
-          
-            &mdash; 09:56
-          
-        
-
-        
-          <span class="middot-divider"></span> ACM FAT* Conference 2019
-        
-      </div>
-      <div itemprop="author">
-        Jiahao Chen, Nathan Kallus, Xiaojie Mao, Geoffry Svacha, Madeleine Udell</div>
-    </div>
-
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        <div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/2018-ai4fin/" itemprop="url">2018 NeurIPS Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy (FEAP-AI4Fin)</a>
-    </h3>
-
-    
-    
-    
-
-    <div class="stream-meta article-metadata">
-      <div>
-        
-        2018-12-07
-        
-          08:30
-          
-            &mdash; 17:30
-          
-        
-
-        
-          <span class="middot-divider"></span> 2018 NeurIPS Workshop on Challenges and Opportunities for AI in Financial Services: the Impact of Fairness, Explainability, Accuracy, and Privacy (FEAP-AI4Fin)
-        
-      </div>
-      <div itemprop="author">
-        Manuela Veloso, Nathan Kallus, Senthil Kumar, Sameena Shah, Isabelle Moulinier, John Paisley, Jiahao Chen</div>
-    </div>
-
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        <div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/2018-fatrec/" itemprop="url">Fair Lending Needs Explainable Models for Responsible Recommendation</a>
-    </h3>
-
-    
-    
-    
-
-    <div class="stream-meta article-metadata">
-      <div>
-        
-        2018-10-06
-        
-          14:30
-          
-            &mdash; 14:50
-          
-        
-
-        
-          <span class="middot-divider"></span> 2nd FATREC Workshop: Responsible Recommendation
-        
-      </div>
-      <div itemprop="author">
-        Jiahao Chen</div>
-    </div>
-
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-  </div>
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
-  <section id="posts" class="home-section">
+  <section id="posts" class="home-section wg-pages   "  >
     <div class="container">
       
 
@@ -1548,97 +1091,50 @@ Laboratories in Singapore.</p>
 
 
 
+  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
 
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-
     <h1>Recent Posts</h1>
     
-    
-
   </div>
   <div class="col-12 col-lg-8">
 
     
 
     
-      
-        
 
-<div class="media stream-item" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="headline">
-      <a href="/post/2018-11-hiring/" itemprop="url">Hiring ML Researchers at Capital One</a>
-    </h3>
-
-    
-    
-      
-    
-    
-    <div class="article-style" itemprop="articleBody">
-      I&rsquo;m hiring a team at Capital One in New York for R&amp;D efforts to bring state-of-the-art machine learning techniques to the …
-    </div>
-    
-
-    <div class="stream-meta">
-    
-
-<div class="article-metadata">
-
-  
-  
-  
-  <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Jiahao Chen</span>
-    </span>
-    
-  </div>
-  
-
-  <span class="article-date">
-    
-        Last updated on
-    
-    <meta content="2018-10-14 23:46:49 -0500 -0500" itemprop="datePublished">
-    <time datetime="2018-12-18 23:52:23 -0500 EST" itemprop="dateModified">
-      2018-12-18
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Jiahao Chen">
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-    </div>
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
     
 
   </div>
@@ -1646,14 +1142,43 @@ Laboratories in Singapore.</p>
 
     </div>
   </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
   
 
   
   
   
-  <section id="projects" class="home-section">
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="projects" class="home-section wg-portfolio   "  >
     <div class="container">
       
+
+
+
 
 
 
@@ -1676,11 +1201,85 @@ Laboratories in Singapore.</p>
 
     
 
-    <div class="row isotope projects-container js-layout-masonry ">
+      
+
+      
+      
+      
       
         
+      
+
+      <span class="d-none default-project-filter">*</span>
+
+      
+      
+      <div class="project-toolbar">
+        <div class="project-filters">
+          <div class="btn-toolbar">
+            <div class="btn-group flex-wrap">
+              
+                
+                
+                
+                  
+                
+                <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-fairml" class="btn btn-primary btn-lg">Fairness in machine learning</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-xai" class="btn btn-primary btn-lg">Explainable AI/ML</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-pl" class="btn btn-primary btn-lg">Programming languages</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-julia" class="btn btn-primary btn-lg">Julia</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-scicomp" class="btn btn-primary btn-lg">Technical computing</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-theochem" class="btn btn-primary btn-lg">Theoretical chemistry</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-chem" class="btn btn-primary btn-lg">Real chemistry</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-frb" class="btn btn-primary btn-lg">Fair and responsible banking</a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+
+    <div class="isotope projects-container js-layout-masonry ">
+      
+
         
         
+        
+
         
           
 
@@ -1691,19 +1290,33 @@ Laboratories in Singapore.</p>
 
 
 
-<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-julia js-id-machine-learning js-id-data-science">
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item ">
   <div class="card">
+    
+    
+    <a href="/project/julia/"  class="card-image hover-overlay">
+      <img src="/project/julia/featured_hu0e3773351790d75ed02bde027a23c902_7557_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
+    </a>
     
     <div class="card-text">
       <h4><a href="/project/julia/" >Julia</a></h4>
-      <div class="card-desription">
-        <p>The Julia programming language</p>
+      
+      <div class="article-style">
+        <p>I am a core contributor to the Julia programming language. In addition to starting and running the Julia Lab at MIT CSAIL from …</p>
       </div>
+      
     </div>
   </div>
 </div>
 
         
+
       
     </div>
 
@@ -1712,93 +1325,405 @@ Laboratories in Singapore.</p>
 
     </div>
   </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
   
 
   
   
   
-  <section id="dog" class="home-section">
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="talks" class="home-section wg-pages   "  >
     <div class="container">
       
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
 
 
 <div class="row">
-  
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Dog</h1>
+    <h1>Recent &amp; Upcoming Talks</h1>
     
   </div>
   <div class="col-12 col-lg-8">
-    <p><a href="https://www.instagram.com/tank.nyc/" target="_blank">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
 
 
   
-
-<figure>
-
-<img src="/img/tank.jpg" />
-
-
-
-<figcaption data-pre="Figure " data-post=":" >
-  <h4>My dog, Tank</h4>
   
-</figcaption>
 
-</figure></a></p>
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-fatstar/" >Fairness under unawareness: assessing disparity when protected class is unobserved</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          2019-01-18 09:56
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Atlanta, Georgia</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/jiahao-chen/">Jiahao Chen</a></span>, <span><a href="/authors/nathan-kallus/">Nathan Kallus</a></span>, <span><a href="/authors/xiaojie-mao/">Xiaojie Mao</a></span>, <span><a href="/authors/geoffry-svacha/">Geoffry Svacha</a></span>, <span><a href="/authors/madeleine-udell/">Madeleine Udell</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1811.11154" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://youtu.be/_oue1AgiQ_g?t=15" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
 
   </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
   
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2018-fatrec/" >Fair Lending Needs Explainable Models for Responsible Recommendation</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The financial services industry has unique explainability and fairness challenges arising from compliance and ethical considerations in …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          2018-10-06 10:02
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Vancouver, Canada</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/jiahao-chen/">Jiahao Chen</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1809.04684" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
 </div>
 
     </div>
   </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
   
 
   
   
   
-  <section id="tags" class="home-section">
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="featured" class="home-section wg-featured   "  >
     <div class="container">
       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Tags</h1>
+    <h1>Featured Publications</h1>
     
   </div>
   <div class="col-12 col-lg-8">
-    
 
     
-      
-      
 
-      
-      
-      
-      
-      
-
-      <div id="tag-cloud">
-        
-          
-          
-          
-          <a href="/tags/data-science/" style="font-size:0.8rem">data-science</a>
-        
-          
-          
-          
-          <a href="/tags/julia/" style="font-size:0.8rem">julia</a>
-        
-          
-          
-          
-          <a href="/tags/machine-learning/" style="font-size:0.8rem">machine-learning</a>
-        
-      </div>
     
 
   </div>
@@ -1806,14 +1731,391 @@ Laboratories in Singapore.</p>
 
     </div>
   </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
   
 
   
   
   
-  <section id="contact" class="home-section">
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications" class="home-section wg-pages   "  >
     <div class="container">
       
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    <div class="alert alert-note">
+  <div>
+    Quickly discover relevant content by <a href="https://jiahao.github.io/publication/" target="_blank">filtering publications</a>.
+  </div>
+</div>
+
+
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/chen-2019-fatstar/" >Fairness under unawareness: disparate impact evaluation with proxy for unknown protected attribute</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Assessing the fairness of a decision making system with respect to a protected class, such as gender or race, is challenging when class …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/jiahao-chen/">Jiahao Chen</a></span>, <span><a href="/authors/nathan-kallus/">Nathan Kallus</a></span>, <span><a href="/authors/xiaojie-mao/">Xiaojie Mao</a></span>, <span><a href="/authors/geoffry-svacha/">Geoffry Svacha</a></span>, <span><a href="/authors/madeleine-udell/">Madeleine Udell</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/chen-2018-fatrec/" >Fair lending needs explainable models for responsible recommendation</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The financial services industry has unique explainability and fairness challenges arising from compliance and ethical considerations in …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/jiahao-chen/">Jiahao Chen</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="tags" class="home-section wg-tag-cloud   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Popular Topics</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
 
 
 
@@ -1828,34 +2130,85 @@ Laboratories in Singapore.</p>
 
     
 
-    <ul class="fa-ul" itemscope>
+    
+    
+      
+      
+    
 
+    <div class="mb-3">
+      <form name="contact" method="POST" action="https://formspree.io/jiahao@jpmorgan.com">
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">Name</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">Email</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">Message</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
+      </form>
+    </div>
+    
+
+    <ul class="fa-ul">
+
+      
+
+      
+
+      
+      
+        
+        <li>
+          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+          <span id="person-address">383 Madison Ave, New York, New York 10179</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
       
       <li>
-        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-        <span id="person-email" itemprop="email"><a href="mailto:jiahao.chen@capitalone.com">jiahao.chen@capitalone.com</a></span>
+        <i class="fa-li fab fa-keybase fa-2x" aria-hidden="true"></i>
+        <a href="https://keybase.io/jiahao" target="_blank" rel="noopener">Keybase</a>
       </li>
       
-
       
-
       
-
       
-
+        
       
-
       
-
+      
+      
+      
+        
       
       <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">11 West 19th Street, Floor 5, New York, New York 10011, USA</span>
+        <i class="fa-li fas fa-dog fa-2x" aria-hidden="true"></i>
+        <a href="https://instagram.com/tank.nyc" target="_blank" rel="noopener">Tank (my dog)</a>
       </li>
-      
-
-      
-
       
 
     </ul>
@@ -1867,12 +2220,38 @@ Laboratories in Singapore.</p>
 
     </div>
   </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
   
 
   
   
   
-  <section id="skills" class="home-section">
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="skills" class="home-section wg-featurette   "  >
     <div class="container">
       
 
@@ -2046,62 +2425,10 @@ Laboratories in Singapore.</p>
 
     </div>
   </section>
-  
 
 
 
-<div class="container">
-  <footer class="site-footer">
-  
-
-  <p class="powered-by">
-    &copy; 2018 &middot; 
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-</div>
-
-
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-    
+      
 
     
     
@@ -2109,15 +2436,18 @@ Laboratories in Singapore.</p>
     
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
         
       
 
@@ -2125,10 +2455,6 @@ Laboratories in Singapore.</p>
       
     
 
-    
-    
-
-    
     
     
 
@@ -2139,13 +2465,13 @@ Laboratories in Singapore.</p>
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -2184,17 +2510,83 @@ Laboratories in Singapore.</p>
 
     
     
+
     
     
     
     
     
     
-    <script src="/js/academic.min.d037ee5294b166a79dec317c58aea9cc.js"></script>
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.0e040a4c8b8532fc173c2fe4328906d0.js"></script>
 
     
 
-  </body>
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2019 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
 </html>
-
-
