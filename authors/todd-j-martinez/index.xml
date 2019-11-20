@@ -5,12 +5,20 @@
     <link>https://jiahao.github.io/authors/todd-j-martinez/</link>
       <atom:link href="https://jiahao.github.io/authors/todd-j-martinez/index.xml" rel="self" type="application/rss+xml" />
     <description>Todd J Martínez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 28 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 29 Jun 2010 14:00:00 -0500</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Todd J Martínez</title>
       <link>https://jiahao.github.io/authors/todd-j-martinez/</link>
     </image>
+    
+    <item>
+      <title>Resolving the dissociation catastrophe in fluctuating-charge models</title>
+      <link>https://jiahao.github.io/talk/2010-07-argonne/</link>
+      <pubDate>Tue, 29 Jun 2010 14:00:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2010-07-argonne/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Charge conservation in electronegativity equalization and its implications for the electrostatic properties of fluctuating-charge models</title>
@@ -25,6 +33,22 @@
       <link>https://jiahao.github.io/publication/chen-2008-a/</link>
       <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
       <guid>https://jiahao.github.io/publication/chen-2008-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the properties of new water models capable of polarization and intermolecular charge transfer</title>
+      <link>https://jiahao.github.io/talk/2009-03-acs-comp/</link>
+      <pubDate>Tue, 24 Mar 2009 18:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2009-03-acs-comp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating-charge models in bond space and their exact reformulation in atomic space</title>
+      <link>https://jiahao.github.io/talk/2009-03-acs-phys/</link>
+      <pubDate>Sun, 22 Mar 2009 00:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2009-03-acs-phys/</guid>
       <description></description>
     </item>
     
@@ -45,10 +69,82 @@
     </item>
     
     <item>
+      <title>A flexible water model capable of polarization and charge-transfer</title>
+      <link>https://jiahao.github.io/talk/2008-08-faraday/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2008-08-faraday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a flexible water model capable of polarization and charge-transfer,</title>
+      <link>https://jiahao.github.io/talk/2008-07-actc/</link>
+      <pubDate>Sat, 19 Jul 2008 00:00:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2008-07-actc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a flexible water model capable of polarization and charge-transfer</title>
+      <link>https://jiahao.github.io/talk/2008-07-qscp/</link>
+      <pubDate>Tue, 08 Jul 2008 21:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2008-07-qscp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QTPIE: A minimal extension of Goddard’s QEq model with correct dissociation</title>
+      <link>https://jiahao.github.io/talk/2007-08-acs/</link>
+      <pubDate>Sun, 19 Aug 2007 19:30:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2007-08-acs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QTPIE: Charge transfer with polarization current equalization. A fluctuating charge model with correct asymptotics</title>
       <link>https://jiahao.github.io/publication/chen-2007/</link>
       <pubDate>Fri, 20 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://jiahao.github.io/publication/chen-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing molecules as atomic-scale electrical circuits with fluctuating-charge models</title>
+      <link>https://jiahao.github.io/talk/2007-03-aps/</link>
+      <pubDate>Wed, 07 Mar 2007 12:52:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2007-03-aps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fluctuating-charge model with charge-transfer and correct asymptotics</title>
+      <link>https://jiahao.github.io/talk/2006-05-icqc/</link>
+      <pubDate>Sun, 21 May 2006 00:00:00 +0900</pubDate>
+      <guid>https://jiahao.github.io/talk/2006-05-icqc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fluctuating-charge model with correct asymptotics</title>
+      <link>https://jiahao.github.io/talk/2006-03-uiuc/</link>
+      <pubDate>Fri, 31 Mar 2006 12:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2006-03-uiuc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Model for Charge Distributions in Molecular Systems</title>
+      <link>https://jiahao.github.io/talk/2005-11-uiuc/</link>
+      <pubDate>Tue, 01 Nov 2005 09:30:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2005-11-uiuc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Model for Charge Distributions in Molecular Systems</title>
+      <link>https://jiahao.github.io/talk/2005-10-uiuc/</link>
+      <pubDate>Fri, 14 Oct 2005 09:30:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2005-10-uiuc/</guid>
       <description></description>
     </item>
     

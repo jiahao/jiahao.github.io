@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stavros Papadopoulos | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/stavros-papadopoulos/</link>
+      <atom:link href="https://jiahao.github.io/authors/stavros-papadopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stavros Papadopoulos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 24 Sep 2015 17:05:00 -0700</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Stavros Papadopoulos</title>
+      <link>https://jiahao.github.io/authors/stavros-papadopoulos/</link>
+    </image>
+    
+    <item>
+      <title>Genomics data analysis in Julia</title>
+      <link>https://jiahao.github.io/talk/2016-08-intel/</link>
+      <pubDate>Thu, 24 Sep 2015 17:05:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-08-intel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

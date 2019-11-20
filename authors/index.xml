@@ -5,7 +5,7 @@
     <link>https://jiahao.github.io/authors/</link>
       <atom:link href="https://jiahao.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 07 Nov 2019 12:00:00 +0800</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Geoffry Svacha</title>
-      <link>https://jiahao.github.io/authors/geoffry-svacha/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiahao.github.io/authors/geoffry-svacha/</guid>
+      <title>Jiahao Chen</title>
+      <link>https://jiahao.github.io/authors/jiahao-chen/</link>
+      <pubDate>Thu, 07 Nov 2019 12:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/authors/jiahao-chen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jiahao Chen</title>
-      <link>https://jiahao.github.io/authors/jiahao-chen/</link>
+      <title>Geoffry Svacha</title>
+      <link>https://jiahao.github.io/authors/geoffry-svacha/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiahao.github.io/authors/jiahao-chen/</guid>
+      <guid>https://jiahao.github.io/authors/geoffry-svacha/</guid>
       <description></description>
     </item>
     
@@ -137,6 +137,30 @@
       <link>https://jiahao.github.io/authors/weijian-zhang/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
       <guid>https://jiahao.github.io/authors/weijian-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikolaos Patsopoulos</title>
+      <link>https://jiahao.github.io/authors/nikolaos-patsopoulos/</link>
+      <pubDate>Mon, 21 Mar 2016 12:05:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/authors/nikolaos-patsopoulos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stavros Papadopoulos</title>
+      <link>https://jiahao.github.io/authors/stavros-papadopoulos/</link>
+      <pubDate>Thu, 24 Sep 2015 17:05:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/authors/stavros-papadopoulos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saman P Amarasinghe</title>
+      <link>https://jiahao.github.io/authors/saman-p-amarasinghe/</link>
+      <pubDate>Fri, 05 Jun 2015 09:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/authors/saman-p-amarasinghe/</guid>
       <description></description>
     </item>
     
@@ -327,8 +351,16 @@
     <item>
       <title>Todd J Martínez</title>
       <link>https://jiahao.github.io/authors/todd-j-martinez/</link>
-      <pubDate>Tue, 28 Jul 2009 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jun 2010 14:00:00 -0500</pubDate>
       <guid>https://jiahao.github.io/authors/todd-j-martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shane Yost</title>
+      <link>https://jiahao.github.io/authors/shane-yost/</link>
+      <pubDate>Fri, 26 Mar 2010 12:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/authors/shane-yost/</guid>
       <description></description>
     </item>
     

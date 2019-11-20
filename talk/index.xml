@@ -5,7 +5,7 @@
     <link>https://jiahao.github.io/talk/</link>
       <atom:link href="https://jiahao.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 18 Jan 2019 09:56:15 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 07 Nov 2019 12:00:00 +0800</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,19 +13,435 @@
     </image>
     
     <item>
+      <title>Fair and explainable AI/ML for financial services</title>
+      <link>https://jiahao.github.io/talk/2019-11-mit/</link>
+      <pubDate>Thu, 07 Nov 2019 12:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2019-11-mit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCGSAC Careers in Chemistry Symposium</title>
+      <link>https://jiahao.github.io/talk/2019-06-dcgsac/</link>
+      <pubDate>Fri, 28 Jun 2019 14:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2019-06-dcgsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fairness under unawareness: assessing disparity when protected class is unobserved</title>
-      <link>https://jiahao.github.io/talk/2019-fatstar/</link>
-      <pubDate>Fri, 18 Jan 2019 09:56:15 -0500</pubDate>
-      <guid>https://jiahao.github.io/talk/2019-fatstar/</guid>
-      <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34; target=&#34;_blank&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One.&lt;/p&gt;
+      <link>https://jiahao.github.io/talk/2019-01-fatstar/</link>
+      <pubDate>Tue, 29 Jan 2019 14:00:05 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2019-01-fatstar/</guid>
+      <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34; target=&#34;_blank&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One based on &lt;a href=&#34;../../publication/chen-2019-a/&#34;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fair Lending Needs Explainable Models for Responsible Recommendation</title>
-      <link>https://jiahao.github.io/talk/2018-fatrec/</link>
+      <link>https://jiahao.github.io/talk/2018-10-fatrec/</link>
       <pubDate>Sat, 06 Oct 2018 10:02:36 -0500</pubDate>
-      <guid>https://jiahao.github.io/talk/2018-fatrec/</guid>
+      <guid>https://jiahao.github.io/talk/2018-10-fatrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsor Talk: Capital One</title>
+      <link>https://jiahao.github.io/talk/2018-08-juliacon/</link>
+      <pubDate>Thu, 10 Aug 2017 14:00:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2018-08-juliacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsor Address: J.P.Morgan Chase &amp; Co.</title>
+      <link>https://jiahao.github.io/talk/2019-07-juliacon/</link>
+      <pubDate>Mon, 24 Jul 2017 09:30:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2019-07-juliacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design choices for numerical linear algebra in a compiled high-level language</title>
+      <link>https://jiahao.github.io/talk/2017-07-pasc/</link>
+      <pubDate>Mon, 26 Jun 2017 14:30:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2017-07-pasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking vector transposes seriously</title>
+      <link>https://jiahao.github.io/talk/2017-06-juliacon/</link>
+      <pubDate>Fri, 23 Jun 2017 09:35:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2017-06-juliacon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia overview and the future of Julia</title>
+      <link>https://jiahao.github.io/talk/2017-03-openmendel/</link>
+      <pubDate>Thu, 09 Mar 2017 00:00:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2017-03-openmendel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia: from multimethods to genomics data science</title>
+      <link>https://jiahao.github.io/talk/2016-10-inria/</link>
+      <pubDate>Tue, 25 Oct 2016 14:00:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-10-inria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming languages: history, relativity and design</title>
+      <link>https://jiahao.github.io/talk/2016-09-manchester/</link>
+      <pubDate>Tue, 20 Sep 2016 09:30:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-09-manchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia overview and the future of Julia</title>
+      <link>https://jiahao.github.io/talk/2016-08-openmendel/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-08-openmendel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistic Relativity and Programming Languages</title>
+      <link>https://jiahao.github.io/talk/2016-08-jsm/</link>
+      <pubDate>Thu, 04 Aug 2016 09:35:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-08-jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia? why a new language, an an application to genomics data analysis</title>
+      <link>https://jiahao.github.io/talk/2016-07-pcmi/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-07-pcmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ceasefire Violation Detection in Social Media with Julia</title>
+      <link>https://jiahao.github.io/talk/2016-05-xdata/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-05-xdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Julia package for practical iterative SVDs</title>
+      <link>https://jiahao.github.io/talk/2016-03-copper2/</link>
+      <pubDate>Fri, 25 Mar 2016 08:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-03-copper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster than FastPCA: High performance principal components analysis of genomics data</title>
+      <link>https://jiahao.github.io/talk/2016-03-copper/</link>
+      <pubDate>Mon, 21 Mar 2016 12:05:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-03-copper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics data analysis in Julia</title>
+      <link>https://jiahao.github.io/talk/2016-08-intel/</link>
+      <pubDate>Thu, 24 Sep 2015 17:05:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-08-intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia, TileDB and genomics matrices</title>
+      <link>https://jiahao.github.io/talk/2015-08-intel/</link>
+      <pubDate>Thu, 24 Sep 2015 17:05:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-08-intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia update</title>
+      <link>https://jiahao.github.io/talk/2015-07-xdata/</link>
+      <pubDate>Tue, 14 Jul 2015 11:30:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-07-xdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Julia</title>
+      <link>https://jiahao.github.io/talk/2015-06-sap/</link>
+      <pubDate>Wed, 10 Jun 2015 12:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-06-sap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial on High Performance Cloud Computing Technologies: Julia &amp; OpenTuner</title>
+      <link>https://jiahao.github.io/talk/2015-05-smart/</link>
+      <pubDate>Fri, 05 Jun 2015 09:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-05-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free probability, random matrices and disorder in organic semiconductors</title>
+      <link>https://jiahao.github.io/talk/2015-04-stanford-icme/</link>
+      <pubDate>Thu, 16 Apr 2015 16:15:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-04-stanford-icme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What does computer science have to offer computational science?</title>
+      <link>https://jiahao.github.io/talk/2015-04-stanford/</link>
+      <pubDate>Tue, 14 Apr 2015 12:20:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-04-stanford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical computing in Julia</title>
+      <link>https://jiahao.github.io/talk/2015-02-siam/</link>
+      <pubDate>Tue, 17 Mar 2015 10:50:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-02-siam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Julia</title>
+      <link>https://jiahao.github.io/talk/2014-09-schlumberger/</link>
+      <pubDate>Wed, 24 Sep 2014 09:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2014-09-schlumberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia for big data</title>
+      <link>https://jiahao.github.io/talk/2014-08-istc/</link>
+      <pubDate>Tue, 19 Aug 2014 14:20:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2014-08-istc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia - A high-level, high-performance dynamic programming language for serious numerical and data analytics work</title>
+      <link>https://jiahao.github.io/talk/2014-07-intel/</link>
+      <pubDate>Tue, 15 Jul 2014 08:00:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2014-07-intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia Workshop</title>
+      <link>https://jiahao.github.io/talk/2014-01-harvard/</link>
+      <pubDate>Tue, 14 Jan 2014 13:30:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2014-01-harvard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disorder and excitonic structure in organic semiconductors</title>
+      <link>https://jiahao.github.io/talk/2013-06-nagoya/</link>
+      <pubDate>Thu, 06 Jun 2013 16:00:00 +0900</pubDate>
+      <guid>https://jiahao.github.io/talk/2013-06-nagoya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disorder and excitonic structure in organic semiconductors</title>
+      <link>https://jiahao.github.io/talk/2012-12-bu/</link>
+      <pubDate>Thu, 13 Dec 2012 11:00:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-12-bu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial freeness of random matrices</title>
+      <link>https://jiahao.github.io/talk/2012-09-dmv/</link>
+      <pubDate>Mon, 17 Sep 2012 17:30:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-09-dmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum mechanical charge equilibration model for open fragments: Extending force fields to handle molecular excited states</title>
+      <link>https://jiahao.github.io/talk/2012-08-acs/</link>
+      <pubDate>Sun, 19 Aug 2012 00:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-08-acs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error analysis of free probability approximations to the density of states of disordered systems</title>
+      <link>https://jiahao.github.io/talk/2012-02-ims-2/</link>
+      <pubDate>Mon, 25 Jun 2012 15:30:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-02-ims-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial freeness of random matrices</title>
+      <link>https://jiahao.github.io/talk/2012-02-ims/</link>
+      <pubDate>Mon, 25 Jun 2012 14:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-02-ims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating the density of states in disordered systems using free probability</title>
+      <link>https://jiahao.github.io/talk/2012-03-aps/</link>
+      <pubDate>Mon, 27 Feb 2012 14:00:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-03-aps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating the density of states in disordered organic semiconductors using free probability theory</title>
+      <link>https://jiahao.github.io/talk/2012-01-encon/</link>
+      <pubDate>Thu, 12 Jan 2012 13:45:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-01-encon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disorder and excitonic structure in organic semiconductors: a random matrix perspective</title>
+      <link>https://jiahao.github.io/talk/2012-09-harvard/</link>
+      <pubDate>Wed, 09 Nov 2011 14:30:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-09-harvard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python as number crunching code glue</title>
+      <link>https://jiahao.github.io/talk/2011-09-bpug/</link>
+      <pubDate>Wed, 21 Sep 2011 19:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2011-09-bpug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical potential for electronic excitations using charge equilibration</title>
+      <link>https://jiahao.github.io/talk/2011-07-actc/</link>
+      <pubDate>Sun, 17 Jul 2011 00:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2011-07-actc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolving the dissociation catastrophe in fluctuating-charge models</title>
+      <link>https://jiahao.github.io/talk/2010-07-argonne/</link>
+      <pubDate>Tue, 29 Jun 2010 14:00:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2010-07-argonne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the black box of quantum mechanics: an example of computing excited states with TDDFT for small organic molecules</title>
+      <link>https://jiahao.github.io/talk/2010-03-cfe/</link>
+      <pubDate>Fri, 26 Mar 2010 12:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2010-03-cfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the properties of new water models capable of polarization and intermolecular charge transfer</title>
+      <link>https://jiahao.github.io/talk/2009-03-acs-comp/</link>
+      <pubDate>Tue, 24 Mar 2009 18:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2009-03-acs-comp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating-charge models in bond space and their exact reformulation in atomic space</title>
+      <link>https://jiahao.github.io/talk/2009-03-acs-phys/</link>
+      <pubDate>Sun, 22 Mar 2009 00:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2009-03-acs-phys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A flexible water model capable of polarization and charge-transfer</title>
+      <link>https://jiahao.github.io/talk/2008-08-faraday/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2008-08-faraday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a flexible water model capable of polarization and charge-transfer,</title>
+      <link>https://jiahao.github.io/talk/2008-07-actc/</link>
+      <pubDate>Sat, 19 Jul 2008 00:00:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2008-07-actc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a flexible water model capable of polarization and charge-transfer</title>
+      <link>https://jiahao.github.io/talk/2008-07-qscp/</link>
+      <pubDate>Tue, 08 Jul 2008 21:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2008-07-qscp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QTPIE: A minimal extension of Goddard’s QEq model with correct dissociation</title>
+      <link>https://jiahao.github.io/talk/2007-08-acs/</link>
+      <pubDate>Sun, 19 Aug 2007 19:30:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2007-08-acs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing molecules as atomic-scale electrical circuits with fluctuating-charge models</title>
+      <link>https://jiahao.github.io/talk/2007-03-aps/</link>
+      <pubDate>Wed, 07 Mar 2007 12:52:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2007-03-aps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fluctuating-charge model with charge-transfer and correct asymptotics</title>
+      <link>https://jiahao.github.io/talk/2006-05-icqc/</link>
+      <pubDate>Sun, 21 May 2006 00:00:00 +0900</pubDate>
+      <guid>https://jiahao.github.io/talk/2006-05-icqc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fluctuating-charge model with correct asymptotics</title>
+      <link>https://jiahao.github.io/talk/2006-03-uiuc/</link>
+      <pubDate>Fri, 31 Mar 2006 12:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2006-03-uiuc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Model for Charge Distributions in Molecular Systems</title>
+      <link>https://jiahao.github.io/talk/2005-11-uiuc/</link>
+      <pubDate>Tue, 01 Nov 2005 09:30:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2005-11-uiuc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Model for Charge Distributions in Molecular Systems</title>
+      <link>https://jiahao.github.io/talk/2005-10-uiuc/</link>
+      <pubDate>Fri, 14 Oct 2005 09:30:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2005-10-uiuc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-range exciton coherence in light harvesting complex II (LHC-II)</title>
+      <link>https://jiahao.github.io/talk/2003-07-kumamoto/</link>
+      <pubDate>Fri, 11 Jul 2003 12:00:00 +0900</pubDate>
+      <guid>https://jiahao.github.io/talk/2003-07-kumamoto/</guid>
       <description></description>
     </item>
     

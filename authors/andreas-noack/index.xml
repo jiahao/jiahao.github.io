@@ -21,5 +21,45 @@
 </description>
     </item>
     
+    <item>
+      <title>Design choices for numerical linear algebra in a compiled high-level language</title>
+      <link>https://jiahao.github.io/talk/2017-07-pasc/</link>
+      <pubDate>Mon, 26 Jun 2017 14:30:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2017-07-pasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistic Relativity and Programming Languages</title>
+      <link>https://jiahao.github.io/talk/2016-08-jsm/</link>
+      <pubDate>Thu, 04 Aug 2016 09:35:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-08-jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Julia package for practical iterative SVDs</title>
+      <link>https://jiahao.github.io/talk/2016-03-copper2/</link>
+      <pubDate>Fri, 25 Mar 2016 08:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-03-copper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster than FastPCA: High performance principal components analysis of genomics data</title>
+      <link>https://jiahao.github.io/talk/2016-03-copper/</link>
+      <pubDate>Mon, 21 Mar 2016 12:05:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-03-copper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics data analysis in Julia</title>
+      <link>https://jiahao.github.io/talk/2016-08-intel/</link>
+      <pubDate>Thu, 24 Sep 2015 17:05:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-08-intel/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

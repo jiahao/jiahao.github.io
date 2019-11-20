@@ -30,10 +30,50 @@
     </item>
     
     <item>
+      <title>Linguistic Relativity and Programming Languages</title>
+      <link>https://jiahao.github.io/talk/2016-08-jsm/</link>
+      <pubDate>Thu, 04 Aug 2016 09:35:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-08-jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Julia package for practical iterative SVDs</title>
+      <link>https://jiahao.github.io/talk/2016-03-copper2/</link>
+      <pubDate>Fri, 25 Mar 2016 08:00:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-03-copper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster than FastPCA: High performance principal components analysis of genomics data</title>
+      <link>https://jiahao.github.io/talk/2016-03-copper/</link>
+      <pubDate>Mon, 21 Mar 2016 12:05:00 -0600</pubDate>
+      <guid>https://jiahao.github.io/talk/2016-03-copper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial on High Performance Cloud Computing Technologies: Julia &amp; OpenTuner</title>
+      <link>https://jiahao.github.io/talk/2015-05-smart/</link>
+      <pubDate>Fri, 05 Jun 2015 09:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2015-05-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parallel Prefix Polymorphism Permits Parallelization, Presentation &amp; Proof</title>
       <link>https://jiahao.github.io/publication/chen-2014/</link>
       <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
       <guid>https://jiahao.github.io/publication/chen-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia for big data</title>
+      <link>https://jiahao.github.io/talk/2014-08-istc/</link>
+      <pubDate>Tue, 19 Aug 2014 14:20:00 -0700</pubDate>
+      <guid>https://jiahao.github.io/talk/2014-08-istc/</guid>
       <description></description>
     </item>
     
@@ -46,6 +86,14 @@
     </item>
     
     <item>
+      <title>Partial freeness of random matrices</title>
+      <link>https://jiahao.github.io/talk/2012-09-dmv/</link>
+      <pubDate>Mon, 17 Sep 2012 17:30:00 +0100</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-09-dmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Error analysis of free probability approximations to the density of states of disordered systems</title>
       <link>https://jiahao.github.io/publication/chen-2012-a/</link>
       <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
@@ -54,10 +102,34 @@
     </item>
     
     <item>
+      <title>Error analysis of free probability approximations to the density of states of disordered systems</title>
+      <link>https://jiahao.github.io/talk/2012-02-ims-2/</link>
+      <pubDate>Mon, 25 Jun 2012 15:30:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-02-ims-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial freeness of random matrices</title>
+      <link>https://jiahao.github.io/talk/2012-02-ims/</link>
+      <pubDate>Mon, 25 Jun 2012 14:00:00 +0800</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-02-ims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Partial freeness of random matrices</title>
       <link>https://jiahao.github.io/publication/chen-2012-f/</link>
       <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://jiahao.github.io/publication/chen-2012-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating the density of states in disordered systems using free probability</title>
+      <link>https://jiahao.github.io/talk/2012-03-aps/</link>
+      <pubDate>Mon, 27 Feb 2012 14:00:00 -0500</pubDate>
+      <guid>https://jiahao.github.io/talk/2012-03-aps/</guid>
       <description></description>
     </item>
     

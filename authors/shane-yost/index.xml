@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shane Yost | Jiahao Chen</title>
+    <link>https://jiahao.github.io/authors/shane-yost/</link>
+      <atom:link href="https://jiahao.github.io/authors/shane-yost/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shane Yost</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 26 Mar 2010 12:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://jiahao.github.io/img/icon-192.png</url>
+      <title>Shane Yost</title>
+      <link>https://jiahao.github.io/authors/shane-yost/</link>
+    </image>
+    
+    <item>
+      <title>Using the black box of quantum mechanics: an example of computing excited states with TDDFT for small organic molecules</title>
+      <link>https://jiahao.github.io/talk/2010-03-cfe/</link>
+      <pubDate>Fri, 26 Mar 2010 12:00:00 -0400</pubDate>
+      <guid>https://jiahao.github.io/talk/2010-03-cfe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

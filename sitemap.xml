@@ -18,12 +18,32 @@
   </url>
   
   <url>
-    <loc>https://jiahao.github.io/publication_types/1/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <loc>https://jiahao.github.io/authors/</loc>
+    <lastmod>2019-11-07T12:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jiahao.github.io/authors/</loc>
+    <loc>https://jiahao.github.io/talk/2019-11-mit/</loc>
+    <lastmod>2019-11-07T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/authors/jiahao-chen/</loc>
+    <lastmod>2019-11-07T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/</loc>
+    <lastmod>2019-11-07T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2019-06-dcgsac/</loc>
+    <lastmod>2019-06-28T14:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/publication_types/1/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +54,6 @@
   
   <url>
     <loc>https://jiahao.github.io/authors/geoffry-svacha/</loc>
-    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiahao.github.io/authors/jiahao-chen/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,13 +83,8 @@
   </url>
   
   <url>
-    <loc>https://jiahao.github.io/talk/2019-fatstar/</loc>
-    <lastmod>2019-01-18T09:56:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiahao.github.io/talk/</loc>
-    <lastmod>2019-01-18T09:56:15-05:00</lastmod>
+    <loc>https://jiahao.github.io/talk/2019-01-fatstar/</loc>
+    <lastmod>2019-01-29T14:00:05-05:00</lastmod>
   </url>
   
   <url>
@@ -113,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://jiahao.github.io/talk/2018-fatrec/</loc>
+    <loc>https://jiahao.github.io/talk/2018-10-fatrec/</loc>
     <lastmod>2018-10-06T10:02:36-05:00</lastmod>
   </url>
   
@@ -153,8 +163,43 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2018-08-juliacon/</loc>
+    <lastmod>2017-08-10T14:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2019-07-juliacon/</loc>
+    <lastmod>2017-07-24T09:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2017-07-pasc/</loc>
+    <lastmod>2017-06-26T14:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2017-06-juliacon/</loc>
+    <lastmod>2017-06-23T09:35:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2017-03-openmendel/</loc>
+    <lastmod>2017-03-09T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/publication/chen-2016-d/</loc>
     <lastmod>2016-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-10-inria/</loc>
+    <lastmod>2016-10-25T14:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-09-manchester/</loc>
+    <lastmod>2016-09-20T09:30:00+01:00</lastmod>
   </url>
   
   <url>
@@ -168,8 +213,28 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2016-08-openmendel/</loc>
+    <lastmod>2016-08-25T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-08-jsm/</loc>
+    <lastmod>2016-08-04T09:35:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/publication/chen-2016-c/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-07-pcmi/</loc>
+    <lastmod>2016-06-19T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-05-xdata/</loc>
+    <lastmod>2016-05-23T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -180,6 +245,71 @@
   <url>
     <loc>https://jiahao.github.io/authors/weijian-zhang/</loc>
     <lastmod>2016-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-03-copper2/</loc>
+    <lastmod>2016-03-25T08:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-03-copper/</loc>
+    <lastmod>2016-03-21T12:05:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/authors/nikolaos-patsopoulos/</loc>
+    <lastmod>2016-03-21T12:05:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2016-08-intel/</loc>
+    <lastmod>2015-09-24T17:05:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2015-08-intel/</loc>
+    <lastmod>2015-09-24T17:05:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/authors/stavros-papadopoulos/</loc>
+    <lastmod>2015-09-24T17:05:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2015-07-xdata/</loc>
+    <lastmod>2015-07-14T11:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2015-06-sap/</loc>
+    <lastmod>2015-06-10T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/authors/saman-p-amarasinghe/</loc>
+    <lastmod>2015-06-05T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2015-05-smart/</loc>
+    <lastmod>2015-06-05T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2015-04-stanford-icme/</loc>
+    <lastmod>2015-04-16T16:15:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2015-04-stanford/</loc>
+    <lastmod>2015-04-14T12:20:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2015-02-siam/</loc>
+    <lastmod>2015-03-17T10:50:00-07:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +335,21 @@
   <url>
     <loc>https://jiahao.github.io/publication/chen-2014/</loc>
     <lastmod>2014-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2014-09-schlumberger/</loc>
+    <lastmod>2014-09-24T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2014-08-istc/</loc>
+    <lastmod>2014-08-19T14:20:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2014-07-intel/</loc>
+    <lastmod>2014-07-15T08:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -253,6 +398,11 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2014-01-harvard/</loc>
+    <lastmod>2014-01-14T13:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/publication_types/0/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -283,6 +433,11 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2013-06-nagoya/</loc>
+    <lastmod>2013-06-06T16:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/authors/aaron-m-virshup/</loc>
     <lastmod>2012-12-14T00:00:00+00:00</lastmod>
   </url>
@@ -295,6 +450,11 @@
   <url>
     <loc>https://jiahao.github.io/authors/todd-j-mart%C4%B1nez/</loc>
     <lastmod>2012-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2012-12-bu/</loc>
+    <lastmod>2012-12-13T11:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -333,6 +493,16 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2012-09-dmv/</loc>
+    <lastmod>2012-09-17T17:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2012-08-acs/</loc>
+    <lastmod>2012-08-19T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/authors/alberto-suarez/</loc>
     <lastmod>2012-07-12T00:00:00+00:00</lastmod>
   </url>
@@ -363,17 +533,67 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2012-02-ims-2/</loc>
+    <lastmod>2012-06-25T15:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2012-02-ims/</loc>
+    <lastmod>2012-06-25T14:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/publication/chen-2012-f/</loc>
     <lastmod>2012-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jiahao.github.io/publication/chen-2009/</loc>
-    <lastmod>2009-07-28T00:00:00+00:00</lastmod>
+    <loc>https://jiahao.github.io/talk/2012-03-aps/</loc>
+    <lastmod>2012-02-27T14:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2012-01-encon/</loc>
+    <lastmod>2012-01-12T13:45:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2012-09-harvard/</loc>
+    <lastmod>2011-11-09T14:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2011-09-bpug/</loc>
+    <lastmod>2011-09-21T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2011-07-actc/</loc>
+    <lastmod>2011-07-17T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2010-07-argonne/</loc>
+    <lastmod>2010-06-29T14:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://jiahao.github.io/authors/todd-j-martinez/</loc>
+    <lastmod>2010-06-29T14:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/authors/shane-yost/</loc>
+    <lastmod>2010-03-26T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2010-03-cfe/</loc>
+    <lastmod>2010-03-26T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/publication/chen-2009/</loc>
     <lastmod>2009-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -433,6 +653,16 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2009-03-acs-comp/</loc>
+    <lastmod>2009-03-24T18:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2009-03-acs-phys/</loc>
+    <lastmod>2009-03-22T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/publication/chen-2008121544/</loc>
     <lastmod>2008-12-15T00:00:00+00:00</lastmod>
   </url>
@@ -445,6 +675,21 @@
   <url>
     <loc>https://jiahao.github.io/authors/dirk-hundertmark/</loc>
     <lastmod>2008-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2008-08-faraday/</loc>
+    <lastmod>2008-08-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2008-07-actc/</loc>
+    <lastmod>2008-07-19T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2008-07-qscp/</loc>
+    <lastmod>2008-07-08T21:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -463,6 +708,11 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2007-08-acs/</loc>
+    <lastmod>2007-08-19T19:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/authors/inmi-kim/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -478,6 +728,31 @@
   </url>
   
   <url>
+    <loc>https://jiahao.github.io/talk/2007-03-aps/</loc>
+    <lastmod>2007-03-07T12:52:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2006-05-icqc/</loc>
+    <lastmod>2006-05-21T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2006-03-uiuc/</loc>
+    <lastmod>2006-03-31T12:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2005-11-uiuc/</loc>
+    <lastmod>2005-11-01T09:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2005-10-uiuc/</loc>
+    <lastmod>2005-10-14T09:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jiahao.github.io/publication/chen-2005-b/</loc>
     <lastmod>2005-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -490,6 +765,11 @@
   <url>
     <loc>https://jiahao.github.io/publication/chen-2004/</loc>
     <lastmod>2004-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiahao.github.io/talk/2003-07-kumamoto/</loc>
+    <lastmod>2003-07-11T12:00:00+09:00</lastmod>
   </url>
   
   <url>
