@@ -1,0 +1,57 @@
+jiahao
+==================================================================
+https://keybase.io/jiahao
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jiahao.github.io
+  * I am jiahao (https://keybase.io/jiahao) on keybase.
+  * I have a public key ASD8uXwFCTxC_HNYH0M6m_5niip3vql6gQ9nqYuUWnkiiQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ead422c202cb0d81dba696a4e3859331fe25b58ee8d612eee9051933f5f2a90a0a",
+      "host": "keybase.io",
+      "kid": "0120fcb97c05093c42fc73581f433a9bfe678a2a77bea97a810f67a98b945a7922890a",
+      "uid": "1cc58feb6bb5d6ba63408eb78f860119",
+      "username": "jiahao"
+    },
+    "merkle_root": {
+      "ctime": 1574342208,
+      "hash": "2e25c54ce89eba81bb0365f868b7b02a5949a50b5a2f01c8357fd8bcd658620c897041ea0e6ef51908d5e9db3c540655aaa13a28be8e9cd0d7600d92c7c34c13",
+      "hash_meta": "c9b35eb345115df3aa271008db0c82127dfc4c4de241d9501ffa8ccbc6263384",
+      "seqno": 10415551
+    },
+    "service": {
+      "entropy": "RJGonJTnlxMnVsJCHu9A0nKH",
+      "hostname": "jiahao.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574342215,
+  "expire_in": 504576000,
+  "prev": "28faf652dcdb7530725c711cd46274047b74df7262a2fdf2ba1ff9efa385d64e",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/Ll8BQk8QvxzWB9DOpv+Z4oqd76peoEPZ6mLlFp5IokKp3BheWxvYWTESpcCDcQgKPr2UtzbdTByXHEc1GJ0BHt033Jiov3yuh/576OF1k7EIO/ByDuC3GgFQoDBYEG5Jb+3V3zGY1HhHcqCUmc0nX2nAgHCo3NpZ8RA5x386XoCcyj+FdGovz4kjEYLi+zZLb7zLJea9PjNiFQLQhhNGABTBGFsOtquGcjNG3AFlxWq0bqf1Oi21p0UCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBmfMjh6TkUwV1D6PuGZLE78KKeMy0iTeoKrinTFYKzKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jiahao
+
+==================================================================
