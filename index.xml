@@ -5,7 +5,7 @@
     <link>https://jiahao.github.io/</link>
       <atom:link href="https://jiahao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiahao Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 16:42:37 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 20 Nov 2019 16:42:37 +0800</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Jiahao Chen</title>
@@ -17,27 +17,27 @@
       <link>https://jiahao.github.io/project/julia/</link>
       <pubDate>Wed, 20 Nov 2019 16:42:37 +0800</pubDate>
       <guid>https://jiahao.github.io/project/julia/</guid>
-      <description>&lt;p&gt;I am a core contributor to the &lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34;&gt;Julia programming language&lt;/a&gt;.
-In addition to starting and running the &lt;a href=&#34;https://julia.mit.edu&#34; target=&#34;_blank&#34;&gt;Julia Lab&lt;/a&gt;
-at &lt;a href=&#34;https://csail.mit.edu&#34; target=&#34;_blank&#34;&gt;MIT CSAIL&lt;/a&gt; from 2013&amp;mdash;2017, I
+      <description>&lt;p&gt;I am a core contributor to the &lt;a href=&#34;https://julialang.org/&#34;&gt;Julia programming language&lt;/a&gt;.
+In addition to starting and running the &lt;a href=&#34;https://julia.mit.edu&#34;&gt;Julia Lab&lt;/a&gt;
+at &lt;a href=&#34;https://csail.mit.edu&#34;&gt;MIT CSAIL&lt;/a&gt; from 2013&amp;mdash;2017, I
 have also made over 500 commits to
-the core &lt;a href=&#34;https://github.com/JuliaLang/julia/graphs/contributors&#34; target=&#34;_blank&#34;&gt;Julia repository&lt;/a&gt;,
+the core &lt;a href=&#34;https://github.com/JuliaLang/julia/graphs/contributors&#34;&gt;Julia repository&lt;/a&gt;,
 and authored over 80 Julia packages spread over the
-&lt;a href=&#34;https://github.com/JuliaMatrices&#34; target=&#34;_blank&#34;&gt;JuliaMatrices&lt;/a&gt;,
-&lt;a href=&#34;https://github.com/JuliaMath&#34; target=&#34;_blank&#34;&gt;JuliaMath&lt;/a&gt;,
-&lt;a href=&#34;https://github.com/JuliaParallel&#34; target=&#34;_blank&#34;&gt;JuliaParallel&lt;/a&gt;,
-&lt;a href=&#34;https://github.com/JuliaQuantum&#34; target=&#34;_blank&#34;&gt;JuliaQuantum&lt;/a&gt;,
-&lt;a href=&#34;https://github.com/JuliaSparse&#34; target=&#34;_blank&#34;&gt;JuliaSparse&lt;/a&gt;,
-&lt;a href=&#34;https://github.com/JuliaStats&#34; target=&#34;_blank&#34;&gt;JuliaStats&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaMatrices&#34;&gt;JuliaMatrices&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaMath&#34;&gt;JuliaMath&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaParallel&#34;&gt;JuliaParallel&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaQuantum&#34;&gt;JuliaQuantum&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaSparse&#34;&gt;JuliaSparse&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/JuliaStats&#34;&gt;JuliaStats&lt;/a&gt;,
 and
-&lt;a href=&#34;https://github.com/JuliaText&#34; target=&#34;_blank&#34;&gt;JuliaText&lt;/a&gt;
+&lt;a href=&#34;https://github.com/JuliaText&#34;&gt;JuliaText&lt;/a&gt;
 organizations,
-and also my &lt;a href=&#34;https://github.com/jiahao?tab=repositories&amp;amp;q=.jl&#34; target=&#34;_blank&#34;&gt;personal account&lt;/a&gt;.
+and also my &lt;a href=&#34;https://github.com/jiahao?tab=repositories&amp;amp;q=.jl&#34;&gt;personal account&lt;/a&gt;.
 I am also involved in
-the &lt;a href=&#34;https://github.com/JuliaCN&#34; target=&#34;_blank&#34;&gt;JuliaCN&lt;/a&gt; documentation translation efforts into Mandarin Chinese,
-the &lt;a href=&#34;https://github.com/JuliaCon&#34; target=&#34;_blank&#34;&gt;JuliaCon&lt;/a&gt; organizing committee (including
+the &lt;a href=&#34;https://github.com/JuliaCN&#34;&gt;JuliaCN&lt;/a&gt; documentation translation efforts into Mandarin Chinese,
+the &lt;a href=&#34;https://github.com/JuliaCon&#34;&gt;JuliaCon&lt;/a&gt; organizing committee (including
 chairing the first three JuliaCons 2014&amp;mdash;2016),
-and broader outreach efforts through the &lt;a href=&#34;https://numfocus.org/&#34; target=&#34;_blank&#34;&gt;NumFOCUS&lt;/a&gt;
+and broader outreach efforts through the &lt;a href=&#34;https://numfocus.org/&#34;&gt;NumFOCUS&lt;/a&gt;
 nonprofit.&lt;/p&gt;
 </description>
     </item>
@@ -79,7 +79,7 @@ nonprofit.&lt;/p&gt;
       <link>https://jiahao.github.io/talk/2019-01-fatstar/</link>
       <pubDate>Tue, 29 Jan 2019 14:00:05 -0500</pubDate>
       <guid>https://jiahao.github.io/talk/2019-01-fatstar/</guid>
-      <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34; target=&#34;_blank&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One based on &lt;a href=&#34;../../publication/chen-2019-a/&#34;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One based on &lt;a href=&#34;../../publication/chen-2019-a/&#34;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -395,9 +395,7 @@ nonprofit.&lt;/p&gt;
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://jiahao.github.io/publication/chen-2014-p/</guid>
       <description>&lt;p&gt;This article for the Chinese programming journal &lt;em&gt;程序员 (The Programmer)&lt;/em&gt; is probably the longest single piece of writing in Mandarin I have ever undertaken.&lt;/p&gt;
-
 &lt;p&gt;Reproduced here is the draft contained in a gist.&lt;/p&gt;
-
 &lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/jiahao/b2ae0e434968f4f2bf10.js&#34;&gt;&lt;/script&gt;
 
 </description>

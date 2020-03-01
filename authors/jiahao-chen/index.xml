@@ -5,7 +5,7 @@
     <link>https://jiahao.github.io/authors/jiahao-chen/</link>
       <atom:link href="https://jiahao.github.io/authors/jiahao-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiahao Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 07 Nov 2019 12:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 07 Nov 2019 12:00:00 +0800</lastBuildDate>
     <image>
       <url>https://jiahao.github.io/img/icon-192.png</url>
       <title>Jiahao Chen</title>
@@ -49,7 +49,7 @@
       <link>https://jiahao.github.io/talk/2019-01-fatstar/</link>
       <pubDate>Tue, 29 Jan 2019 14:00:05 -0500</pubDate>
       <guid>https://jiahao.github.io/talk/2019-01-fatstar/</guid>
-      <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34; target=&#34;_blank&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One based on &lt;a href=&#34;../../publication/chen-2019-a/&#34;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;My intern, &lt;a href=&#34;https://xiaojiemao.github.io/&#34;&gt;Xiaojie Mao&lt;/a&gt;, will be presenting his summer research work while at Capital One based on &lt;a href=&#34;../../publication/chen-2019-a/&#34;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -341,9 +341,7 @@
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://jiahao.github.io/publication/chen-2014-p/</guid>
       <description>&lt;p&gt;This article for the Chinese programming journal &lt;em&gt;程序员 (The Programmer)&lt;/em&gt; is probably the longest single piece of writing in Mandarin I have ever undertaken.&lt;/p&gt;
-
 &lt;p&gt;Reproduced here is the draft contained in a gist.&lt;/p&gt;
-
 &lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/jiahao/b2ae0e434968f4f2bf10.js&#34;&gt;&lt;/script&gt;
 
 </description>
